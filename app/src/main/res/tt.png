@@ -1,0 +1,4036 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js ie6 oldie" lang="en"><![endif]-->
+<!--[if IE 7]><html class="no-js ie7 oldie" lang="en"><![endif]-->
+<!--[if IE 8]><html class="no-js ie8 oldie" lang="en"><![endif]-->
+<!--[if gt IE 8]><!-->
+<html lang="en">
+	<!--<![endif]-->	
+<head>
+
+
+		<link rel="shortcut icon" href="//theme.hstatic.net/1000237375/1000304269/14/favicon.png?v=3379" type="image/png" />
+		<meta charset="utf-8" />
+		<!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1' /><![endif]-->
+		<title>
+			Phương pháp giải các dạng toán THPT - Nguyên hàm, tích phân và ứng dụn &ndash; MINH LONG BOOK
+		</title>
+		
+		<meta name="description" content="Nhóm HỒNG ĐỨC chúng tôi luôn mong muốn bộ sách này đáp ứng được nhu cầu thực sự hiện nay "Đổi mới phương pháp dạy học theo hướng lấy học trò làm trung tâm" và h" />
+		
+		<meta name="robots" content="index,follow" />
+		<meta name="revisit-after" content="1 day" />
+		<meta content='width=device-width, initial-scale=1.0, maximum-scale=2.0, user-scalable=0' name='viewport' />
+		<link rel="canonical" href="https://shop.minhlongbook.vn/products/phuong-phap-giai-cac-dang-toan-thpt-nguyen-ham-tich-phan-va-ung-dung" />
+		
+		<meta name="keywords" content="sách hay, chữa lành, giúp đỡ bản thân, kinh doanh, self-help. thành công, kinh doanh, tự chủ, độc lập, con gái, phụ nữ, mẹ và bé, bà bầu, trẻ em, thiếu nhi, kinh tế, kỹ năng mềm, giao tiếp, đồ chơi trẻ em, học tập, tham khảo, phổ thông, giáo dục, trẻ nhỏ, con nít, tiến bộ, kinh nghiệm, kỷ luật, công sở, cuộc sống">
+		
+		<script type='text/javascript'>
+//<![CDATA[
+if ((typeof Haravan) === 'undefined') {
+  Haravan = {};
+}
+Haravan.culture = 'vi-VN';
+Haravan.shop = 'minhlongbook.myharavan.com';
+Haravan.theme = {"name":"pb store","id":1000304269,"role":"main"};
+Haravan.domain = 'shop.minhlongbook.vn';
+//]]>
+</script>
+<meta name="google-site-verification" content="weapcnNFxc7niewwnu26uAH_D6_SvLFqV4L189RZhTY" /><script>
+//<![CDATA[
+(function() { function asyncLoad() { var urls = ["https://c.o-s.io/59966/tracker.js","https://c.o-s.io/128777/tracker.js","https://c.o-s.io/128327/tracker.js","https://app.hstatic.net/salechannel_messenger/script_tag/1000237375-2e7cd93a-6a9a-5d7a-a0fb-9b95ee2a5d6c.js","https://app.hstatic.net/socialloginplus/1000237375/script-tag.js?v=1600246136443"];for (var i = 0; i < urls.length; i++) {var s = document.createElement('script');s.type = 'text/javascript';s.async = true;s.src = urls[i];var x = document.getElementsByTagName('script')[0];x.parentNode.insertBefore(s, x);}}window.attachEvent ? window.attachEvent('onload', asyncLoad) : window.addEventListener('load', asyncLoad, false);})();
+//]]>
+</script>
+<script type='text/javascript'>!function(){var hrv_analytics=window.hrv_analytics=window.hrv_analytics||[];if(!hrv_analytics.initialize)if(hrv_analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{hrv_analytics.invoked=!0;hrv_analytics.methods=["start","trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","debug","page","once","off","on"];hrv_analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);hrv_analytics.push(e);return hrv_analytics}};for(var t=0;t<hrv_analytics.methods.length;t++){var e=hrv_analytics.methods[t];hrv_analytics[e]=hrv_analytics.factory(e)}hrv_analytics.load=function(t,e){var n=document.createElement("script");n.type="text/javascript";n.async=!0;n.src="https://stats.hstatic.net/analyticsv3.min.js";var a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(n,a);hrv_analytics._loadOptions=e};hrv_analytics.SNIPPET_VERSION="4.1.0";hrv_analytics.start('pro:web:1000237375');hrv_analytics.page();hrv_analytics.load();}}();</script><style>.grecaptcha-badge{visibility:hidden;}</style>
+<script type='text/javascript'>
+window.HaravanAnalytics = window.HaravanAnalytics || {};
+window.HaravanAnalytics.meta = window.HaravanAnalytics.meta || {};
+window.HaravanAnalytics.meta.currency = 'VND';
+var meta = {"page":{"pageType":"product","resourceType":"product","resourceId":1010552632},"product":{"id":1010552632,"type":"Sách","title":"Sách: Phương Pháp Giải Các Dạng Toán Thpt - Nguyên Hàm, Tích Phân Và Ứng Dụng","price":9120000.0,"selected_or_first_available_variant":{"id":1020914574,"price":9120000.0,"title":"Sách: Phương Pháp Giải Các Dạng Toán Thpt - Nguyên Hàm, Tích Phân Và Ứng Dụng - Default Title","sku":"8936067598063","variant_title":"Default Title"},"vendor":"Đại Học Quốc Gia Hà Nội","imageUrl":"https://product.hstatic.net/1000237375/product/uong-phap-giai-cac-dang-toan-thpt-nguyen-ham-tich-phan-va-ung-dung-440.jpg","available":true}};
+for (var attr in meta) {
+	window.HaravanAnalytics.meta[attr] = meta[attr];
+}
+window.HaravanAnalytics.AutoTrack = true;
+</script>
+<script>
+//<![CDATA[
+window.HaravanAnalytics.ga = "UA-101278099-1";
+window.HaravanAnalytics.enhancedEcommerce = true;
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', window.HaravanAnalytics.ga, {cookieDomain: 'auto', siteSpeedSampleRate: '10',sampleRate: 100,allowLinker: true});
+ga('send', 'pageview'); ga('require', 'linker');ga('require', 'linker');try {
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-947809317');
+
+
+} catch (e) {};
+                //]]>
+                </script>
+                <script>
+window.HaravanAnalytics.fb = "866010316820140";
+//<![CDATA[
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+// Insert Your Facebook Pixel ID below. 
+fbq('init', window.HaravanAnalytics.fb, {} , {'agent':'plharavan'});
+fbq('track', 'PageView');
+//]]>
+</script>
+<noscript><img height='1' width='1' style='display:none' src='https://www.facebook.com/tr?id=866010316820140&amp;ev=PageView&amp;noscript=1'/></noscript><span itemscope itemtype='http://schema.org/Product'>
+<meta itemprop='name' content='Sách: Phương Pháp Giải Các Dạng Toán Thpt - Nguyên Hàm, Tích Phân Và Ứng Dụng'>
+<meta itemprop='brand' content='Đại Học Quốc Gia Hà Nội'>
+<meta itemprop='image' content='https://product.hstatic.net/1000237375/product/uong-phap-giai-cac-dang-toan-thpt-nguyen-ham-tich-phan-va-ung-dung-440.jpg'/>
+<span itemprop='offers' itemscope itemtype='http://schema.org/Offer'>
+<meta itemprop='priceCurrency' content='VND'/>
+<meta itemprop='price' content='91200'/>
+<link itemprop='itemCondition' href='http://schema.org/NewCondition'/>
+<link itemprop='availability' href='http://schema.org/InStock'/>
+</span>
+</span>
+
+		<script src='//theme.hstatic.net/1000237375/1000304269/14/plugins.js?v=3379' type='text/javascript'></script>
+
+
+<script src='//theme.hstatic.net/1000237375/1000304269/14/jquery.fancybox.js?v=3379' type='text/javascript'></script>
+<link href='//theme.hstatic.net/1000237375/1000304269/14/jquery.fancybox.css?v=3379' rel='stylesheet' type='text/css'  media='all'  />
+
+<!--------------CSS----------->
+
+<link href='//theme.hstatic.net/1000237375/1000304269/14/plugins.css?v=3379' rel='stylesheet' type='text/css'  media='all'  />
+<link href='//theme.hstatic.net/1000237375/1000304269/14/styles.css?v=3379' rel='stylesheet' type='text/css'  media='all'  />
+
+<link href='//theme.hstatic.net/1000237375/1000304269/14/responsive.css?v=3379' rel='stylesheet' type='text/css'  media='all'  />
+
+
+
+
+
+<meta property="og:type" content="product" />
+<meta property="og:title" content="Sách: Phương Pháp Giải Các Dạng Toán Thpt - Nguyên Hàm, Tích Phân Và Ứng Dụng" />
+<meta property="og:image" content="http://product.hstatic.net/1000237375/product/uong-phap-giai-cac-dang-toan-thpt-nguyen-ham-tich-phan-va-ung-dung-440_grande.jpg" />
+<meta property="og:image:secure_url" content="https://product.hstatic.net/1000237375/product/uong-phap-giai-cac-dang-toan-thpt-nguyen-ham-tich-phan-va-ung-dung-440_grande.jpg" />
+<meta property="og:price:amount" content="91200" />
+<meta property="og:price:currency" content="VND" />
+
+
+	
+	<meta property="og:description" content="Nhóm HỒNG ĐỨC chúng tôi luôn mong muốn bộ sách này đáp ứng được nhu cầu thực sự hiện nay "Đổi mới phương pháp dạy học theo hướng lấy học trò làm trung tâm" và h" />
+	
+	<meta property="og:url" content="https://shop.minhlongbook.vn/products/phuong-phap-giai-cac-dang-toan-thpt-nguyen-ham-tich-phan-va-ung-dung" />
+	<meta property="og:site_name" content="MINH LONG BOOK" />
+
+
+<script>
+window.store = { 
+	template: "product.popup"
+}
+</script>
+		
+
+
+
+
+<meta property="og:type" content="product" />
+<meta property="og:title" content="Sách: Phương Pháp Giải Các Dạng Toán Thpt - Nguyên Hàm, Tích Phân Và Ứng Dụng" />
+<meta property="og:image" content="http://product.hstatic.net/1000237375/product/uong-phap-giai-cac-dang-toan-thpt-nguyen-ham-tich-phan-va-ung-dung-440_grande.jpg" />
+<meta property="og:image:secure_url" content="https://product.hstatic.net/1000237375/product/uong-phap-giai-cac-dang-toan-thpt-nguyen-ham-tich-phan-va-ung-dung-440_grande.jpg" />
+<meta property="og:price:amount" content="91200" />
+<meta property="og:price:currency" content="VND" />
+
+
+	
+	<meta property="og:description" content="Nhóm HỒNG ĐỨC chúng tôi luôn mong muốn bộ sách này đáp ứng được nhu cầu thực sự hiện nay "Đổi mới phương pháp dạy học theo hướng lấy học trò làm trung tâm" và h" />
+	
+	<meta property="og:url" content="https://shop.minhlongbook.vn/products/phuong-phap-giai-cac-dang-toan-thpt-nguyen-ham-tich-phan-va-ung-dung" />
+	<meta property="og:site_name" content="MINH LONG BOOK" />
+
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window,document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+ fbq('init', '866010316820140'); 
+fbq('track', 'PageView');
+</script>
+<noscript>
+ <img height="1" width="1" 
+src="https://www.facebook.com/tr?id=866010316820140&ev=PageView
+&noscript=1"/>
+</noscript>
+<!-- End Facebook Pixel Code -->
+  <script type="text/javascript">
+    function loadScript(c, d) { var e = document['createElement']('script'); e['type'] = 'text/javascript'; if (e['readyState']) { e['onreadystatechange'] = function () { if (e['readyState'] == 'loaded' || e['readyState'] == 'complete') { e['onreadystatechange'] = null; d(); } }; } else { e['onload'] = function () { d(); }; } e['src'] = c; document['getElementsByTagName']('head')[0x0]['appendChild'](e); }
+    var pageTypes = {
+        "home": "HOME",
+        "collection": "CATEGORY",
+        "product": "PRODUCT",
+        "searchresults": "SEARCH"
+    };
+    var _osOptions = {
+        "language": "en",
+        "pageType": pageTypes[HaravanAnalytics.meta.page.pageType] || "HOME",
+        "categories": [],
+        "skuIds": []
+    };
+
+    var currentVariant =  {"available":true,"compare_at_price_max":15200000.0,"compare_at_price_min":15200000.0,"compare_at_price_varies":false,"compare_at_price":15200000.0,"content":null,"description":"<p><span>&nbsp;</span><span>Nhóm HỒNG ĐỨC chúng tôi luôn mong muốn bộ sách này đáp ứng được nhu cầu thực sự hiện nay \"Đổi mới phương pháp dạy học theo hướng lấy học trò làm trung tâm\" và hy vọng rằng bộ sách sẽ được thầy giáo, cô giáo và các em học sinh đón đọc.</span><br><span>&nbsp; &nbsp;&nbsp;</span><span>Cuốn Nguyên hàm, Tích phân và Ứng dụng bao gồm sáu bài giảng:<br>Bài giảng 1. Nguyên hàm<br>Bài giảng 2. Một số phương pháp tìm nguyên hàm<br>Bài giảng 3. Tích phân<br>Bài giảng 4. Một số phương pháp tính tích phân<br>Bài giảng 5. Ứng dụng tích phân để tính diện tích hình phẳng<br>Bài giảng 6. Ứng dụng tích phân để tính thể tích vật thể<br>Mỗi Bài giảng được trình bày thành ba phần:<br>A. Cơ sở lí thuyết: Nhiều em học sinh lúng túng khi gặp các bài toán về nguyên hàm, tích phân và ứng dụng nên phần này được trình bày một cách chi tiết cùng các ví dụ minh họa kèm theo.<br>NGUYÊN HÀM - TÍCH PHÂN VÀ ỨNG DỤNG<br>B. Phương pháp giải các dạng toán: Nhiều ví dụ trong phần này được trình bày theo lược đồ:<br>Ví dụ Þ Hướng dẫn Þ Giải Þ Nhận xét - Sáng tạo<br>C. Bài tập<br>Hướng dẫn - Đáp số</span><br><span>&nbsp; &nbsp;&nbsp;</span><span>Để cuốn sách ngày càng hoàn thiện hơn Nhóm HỒNG ĐỨC chúng tôi rất mong nhận được những ý kiến đóng góp quý báu của bạn đọc gần xa.&nbsp;</span><br>####</p><p><span contenteditable=\"false\" data-mce-object=\"iframe\" class=\"mce-preview-object mce-object-iframe\" data-mce-p-src=\"https://drive.google.com/file/d/1ELLogS9oAy9PIq95OOcouiKAaBbkT9uz/preview\"><iframe src=\"https://drive.google.com/file/d/1ELLogS9oAy9PIq95OOcouiKAaBbkT9uz/preview\" width=\"100%\" height=\"480\" frameborder=\"0\"></iframe><span class=\"mce-shim\"></span></span></p>","featured_image":"https://product.hstatic.net/1000237375/product/uong-phap-giai-cac-dang-toan-thpt-nguyen-ham-tich-phan-va-ung-dung-440.jpg","handle":"phuong-phap-giai-cac-dang-toan-thpt-nguyen-ham-tich-phan-va-ung-dung","id":1010552632,"images":["https://product.hstatic.net/1000237375/product/uong-phap-giai-cac-dang-toan-thpt-nguyen-ham-tich-phan-va-ung-dung-440.jpg","https://product.hstatic.net/1000237375/product/img_3998.jpg"],"options":["Tiêu đề"],"price":9120000.0,"price_max":9120000.0,"price_min":9120000.0,"price_varies":false,"tags":["tacgia LÊ HỒNG ĐỨC (Chủ biên) - ĐỖ HOÀNG HÀ - LÊ HOÀNG NAM - ĐOÀN MINH CHÂU - ĐÀO THỊ NGỌC HÀ","namxuatban_2017","bia_bìa mềm","kichthuoc_19 x 26 cm","sotrang_328"],"template_suffix":"popup","title":"Sách: Phương Pháp Giải Các Dạng Toán Thpt - Nguyên Hàm, Tích Phân Và Ứng Dụng","type":"Sách","url":"/products/phuong-phap-giai-cac-dang-toan-thpt-nguyen-ham-tich-phan-va-ung-dung","pagetitle":"Phương pháp giải các dạng toán THPT - Nguyên hàm, tích phân và ứng dụn","metadescription":"Nhóm HỒNG ĐỨC chúng tôi luôn mong muốn bộ sách này đáp ứng được nhu cầu thực sự hiện nay \"Đổi mới phương pháp dạy học theo hướng lấy học trò làm trung tâm\" và h","variants":[{"id":1020914574,"barcode":"8936067598063","available":true,"price":9120000.0,"sku":"8936067598063","option1":"Default Title","option2":"","option3":"","options":["Default Title"],"inventory_quantity":238,"old_inventory_quantity":238,"title":"Default Title","weight":600.0,"compare_at_price":15200000.0,"inventory_management":"haravan","inventory_policy":"deny","selected":false,"url":null,"featured_image":null}],"vendor":"Đại Học Quốc Gia Hà Nội","published_at":"2017-12-23T03:03:29.713Z","created_at":"2017-12-22T07:51:52.05Z","not_allow_promotion":false};
+    console.log("printing currentvariant");
+    console.log(currentVariant);
+    var skus = (currentVariant && [currentVariant]) || [];
+    skus && skus.forEach(function (sku, index) {
+        if (sku && sku.variants) {
+           for (var i = 0; i < sku.variants.length; i++) {
+               var singleVariantObj = sku.variants[i];
+               if(singleVariantObj && singleVariantObj.available)
+               {
+                  _osOptions["skuIds"].push(singleVariantObj.id);
+                  _osOptions["categories"].push(sku.type);
+                  break;
+               }
+           }
+        } else if (sku && sku.id) {
+            _osOptions["skuIds"].push(sku.id);
+            "Sách".length && _osOptions["categories"].push("Sách");
+        }
+    });
+    
+        _osOptions.categories.push("Sách");
+    
+        _osOptions.categories.push("Đồ chơi");
+    
+        _osOptions.categories.push("Khác");
+    
+        _osOptions.categories.push("sách");
+    
+        _osOptions.categories.push("đồ chơi");
+    
+        _osOptions.categories.push("Sổ tay");
+    
+        _osOptions.categories.push("Notebook -");
+    
+    if (_osOptions["pageType"] == "CATEGORY" || _osOptions["pageType"] == "PRODUCT") {
+        _osOptions["categories"] = _osOptions["categories"] && _osOptions["categories"].length > 0 && [_osOptions["categories"][0]] || []
+    } else {
+        _osOptions["categories"] = [];
+    };
+    console.log(_osOptions);
+    loadScript("https://c.o-s.io/59966/graviti.min.js", function() {
+         if (null != window.location.href.match(/_os_test_4/)) {  document.cookie = '_sok_widgetVisible=true; path=/;' }if (!!window.location.href.match(/.*/gi)) { window._sok.loadDiscovery({"title":"Sách hay","label":"minhlongbook","trafficToBeServedPer":100,"excludePages":"","demoMode":false,"font":"Chivo","color":"#00B0AC","button":{"color":"#00B0AC","hoverColor":"#00B0AC","text":"minhlongbook"},"deviceTargetting":[{"id":185,"deviceType":"DESKTOP","statusType":"ACTIVE"},{"id":186,"deviceType":"MOBILE","statusType":"ACTIVE"}],"ads":[],"widgetVisible":{"ab":{"default":"false","variant":{"value":"true","_condition":1}}},"fontUrl":"https://fonts.googleapis.com/css?family=Chivo:400,600","googleAnalyticsTag":null,"configLanguage":null,"id":93,"statusType":"ACTIVE","clientId":"59966","agencyId":72,"currencyCode":"VND","platform":"haravan","pageType":_osOptions["pageType"],"skuIds":_osOptions["skuIds"],"language":_osOptions["language"],"categories":_osOptions["categories"],"enableOnMobile":true,"layouts":["2_COLUMN"]}); }
+    });
+</script>
+
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5S3KNM4');</script>
+<!-- End Google Tag Manager -->
+<script>if (typeof(_sokShops) === "undefined") { _sokShops = {};}_sokShops.getNumber = function(val) { val = val.replace(/,/g, ""); var reg = /\d+(\.\d{1,2})?/; if (val.length && val.match(reg).length) { return parseFloat(val.match(reg)[0]); } else { return 0; }};   _sokShops.product = { lead_step: "viewproduct", product_names: "", sku_id: "1020914574", product_prices: _sokShops.getNumber("91,200₫"), currency: "VND", product_category: "", brand: "Đại Học Quốc Gia Hà Nội",  product_imageurl: "https://product.hstatic.net/1000237375/product/uong-phap-giai-cac-dang-toan-thpt-nguyen-ham-tich-phan-va-ung-dung-440_master.jpg",   };   _sokShops.cart = {  product_imageurl: [ ], sku_id: [ ],  product_names: [ ], sku_url: [ ],product_prices: [ ], product_quantities: [ ], cart_amount: _sokShops.getNumber("0₫"), currency: "VND" };</script></head>
+	<body class="ins_un_home">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5S3KNM4"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+		<div id="fb-root"></div>
+		<script>(function(d, s, id) {
+	var js, fjs = d.getElementsByTagName(s)[0];
+	if (d.getElementById(id)) return;
+	js = d.createElement(s); js.id = id;
+	js.src = 'https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v2.10&appId=504304589901470';
+	fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+		<div class="ins-page">
+			<header id="header_chir" class="bg_w ">
+
+	<section id="main_header">
+		<div class="container">
+			<div class="row">
+				<div id="chir_logo" class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
+					
+					<div class="tool_bar_menu visible-xs visible-sm">
+						<a href="javascript:void(0)">
+							<span class="open-menu"></span>
+						</a>
+
+					</div>
+					
+					
+					
+					
+					<p>
+						<a href="/"><img src="//theme.hstatic.net/1000237375/1000304269/14/logo.png?v=3379" alt="MINH LONG BOOK" /></a>
+					</p>
+					
+					
+
+					
+					<div class="tool_bar_user visible-xs visible-sm">
+						<a href="/cart" title="Giỏ hàng" class="cart_mobile">
+							<span class="cart-control control-4">
+							</span>
+							<span id="count_Cart_mobile" class="header-cart-count CartCount">0</span>
+						</a>
+
+						
+					</div>
+
+				</div>
+				
+				<div id="chir_search_head" class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+					<span class="open-search visible-xs"><i class="fa fa-search" aria-hidden="true"></i></span>
+					<div class="chir_frm">
+						<form id="searchauto" action="/search" class="searchform-categoris ultimate-search">
+
+	<div class="wpo-search">
+
+		<div class="wpo-search-inner">
+
+			<div class="input-group">
+
+				<input type="hidden" name="type" value="product" />
+
+				<input id="searchtext" name="q" id="s" maxlength="40" class="form-control input-search" type="text" size="20" placeholder="Tìm kiếm...">
+
+				<span class="input-group-addon">
+
+					<input type="submit" id="searchsubmit"  value="Tìm kiếm">
+
+				</span>
+
+			</div>
+
+		</div>
+
+		<input type="hidden" class="collection_id" value="(collectionid:product>=0)" />
+
+		<input type="hidden" class="collection_handle" value="all" />
+
+		<input type="hidden" class="collection_name" value="all" />
+
+	</div>
+
+</form>
+
+<script>
+  $('#searchsubmit').click(function(e){
+   e.preventDefault();
+   window.location = '/search?q=filter=(((title:product**'+$('#searchtext').val()+')))';
+  })
+  </script>
+
+
+
+<script>
+
+
+$('.ultimate-search').submit(function(e) {
+
+	e.preventDefault();
+
+	var q = $(this).find('input[name=q]').val();
+
+	if( ! q ) {
+		window.location = '/search?type=product&q=**';
+		return;
+	}
+	else{
+		window.location = '/search?type=product&q=' + q;
+		return;
+	}
+});
+
+function selectSuggest(act){
+
+
+	cur = $('.smart-search-wrapper > .select').index();
+
+	length = $('.smart-search-wrapper > a').length;
+
+	if (act == 38)
+	{
+
+		if (cur == -1 || cur == 0)
+
+			cur = length - 1;				
+
+		else
+
+			cur = cur - 1;
+
+	}
+
+
+	if (act == 40)
+	{
+
+		if (cur == -1 || cur == length - 1)
+
+			cur = 0;				
+
+		else
+
+			cur = cur + 1;
+	}
+
+	$('.smart-search-wrapper>a').removeClass('select');
+
+	$('.smart-search-wrapper>a:nth-child('+ ( cur + 1)+')').addClass('select');
+
+
+	$('.ultimate-search input[name=q]').val($('.smart-search-wrapper>.select').attr('data-title'));
+	return false;
+}
+
+
+(function($) {
+	$.fn.smartSearch = function(_option) {
+
+
+		var o, issending = false,
+
+				timeout = null;
+
+		var option = {
+			smartoffset: true, //auto calc offset
+
+			searchoperator: '**', //** contain, *= begin with, =* end with
+
+			searchfield: "title",
+
+			searchwhen: 'keyup', //0: after keydown, 1: after keypress, after space
+
+			searchdelay: 500, //delay time before load data
+
+		};
+
+		if (typeof(_option) !== 'undefined') {
+
+			$.each(_option, function(i, v) {
+
+				if (typeof(_option[i]) !== 'undefined') option[i] = _option[i];
+
+			})
+		}
+
+		o = $(this);
+
+		o.attr('autocomplete', 'off');
+
+		this.bind(option.searchwhen, function(event) {
+
+			if (event.keyCode == 38 || event.keyCode == 40) {
+
+				return selectSuggest(event.keyCode);
+
+			} else {
+
+				$(".smart-search-wrapper." + option.wrapper).remove();
+
+				clearTimeout(timeout);
+
+				timeout = setTimeout(l, option.searchdelay, $(this).val());
+
+			}
+
+		});     
+
+		var l = function(t) {
+
+			if (issending) return this;
+
+			issending = true;
+
+			coll=''
+
+			if(option.collection != null)
+
+				coll= $(option.collection).val() + "&&";
+
+			$.ajax({
+
+				url: "/search?q=filter=(" + coll + "(" + option.searchfield + ":product" + option.searchoperator + t + "))&view=ultimate-search",
+
+				dataType: "JSON",
+
+				async: false,
+
+				success: function(data) {
+					console.log('run');
+
+					if( $('.smart-search-wrapper.' + option.wrapper).length == 0 ) {
+
+						$('body').append("<div class='smart-search-wrapper "  + option.wrapper + "'></div>");
+
+					}
+
+					p();
+
+					$.each(data, function(i, v) {
+
+						$(".smart-search-wrapper." + option.wrapper).append("<a data-title='"+ v.title + "'class='thumbs' href='" + v.url + "'> <img src='"+Haravan.resizeImage(v.featured_image, 'icon')+"'/></a><a data-title='"+ v.title + "' href='" + v.url + "'>" + v.title + "<span class='price-search'>"+ Haravan.formatMoney(v.price, "{{amount}}₫") +"</span></a>");
+
+					});
+
+					issending = false;
+
+				},
+
+				error: function (xhr, ajaxOptions, thrownError) {
+
+					//alert(xhr.status);
+
+					alert(thrownError);
+					issending = false;
+				}
+
+			});
+
+		}
+
+		$(window).resize(function() {
+
+			p();
+
+		});
+
+		$(window).scroll(function() {
+
+			p();
+
+		});
+
+		
+		$(document).on("click", function(event){
+			var $trigger = $(".smart-search-wrapper");
+			if($trigger !== event.target && !$trigger.has(event.target).length){
+				$(".smart-search-wrapper").slideUp();
+			}            
+		});
+
+		var p = function() {
+
+			if( ! o.offset() ) {
+
+				return;
+
+			}
+			/*var q = $(this).find('input[name=q]').val();
+			var q_href = '/search?type=product&q=' + q;
+
+			$('.smart-search-wrapper').append( "<a href=' "+q_href+" '>Test</a>" );*/
+			$(".smart-search-wrapper." + option.wrapper).css("width", o.outerWidth() + "px");
+
+			$(".smart-search-wrapper." + option.wrapper).css("left", o.offset().left + "px");
+
+			if (option.smartoffset) {
+
+
+				h = $(".smart-search-wrapper." + option.wrapper).height();
+
+				if (h + o.offset().top - $(window).scrollTop() + o.outerHeight() > $(window).height()) {
+
+					$(".smart-search-wrapper." + option.wrapper).css('top', '');
+
+
+					$(".smart-search-wrapper." + option.wrapper).css('bottom', ($(window).scrollTop() + $(window).height() - o.offset().top) + "px");
+
+				} else {
+
+					$(".smart-search-wrapper." + option.wrapper).css('bottom', '');
+
+					$(".smart-search-wrapper." + option.wrapper).css('top', (o.offset().top - $(window).scrollTop() + o.outerHeight()) + "px");
+
+				}
+
+			} else {
+
+				$(".smart-search-wrapper." + option.wrapper).css('top', (o.offset().top - $(window).scrollTop() + o.outerHeight()) + "px");
+
+			}
+
+		}
+
+		return this;
+
+	};
+}(jQuery));
+
+
+
+jQuery('.ultimate-search input[name=q]').smartSearch({searchdelay:400, wrapper: 'search-wrapper', collection:'.collection_id'});
+
+
+</script>
+
+
+<style>
+
+	.smart-search-wrapper>a.thumbs{   
+	width: 40px;
+	display: inline-block;
+	padding: 5px 0px;
+	}
+
+
+
+	.smart-search-wrapper>a.thumbs img {
+	position: absolute;
+	top: 0px;
+	width:auto;
+	height: 100%;
+	left: 10px;
+	}
+	.smart-search-wrapper{
+	position: fixed;
+	background: #fff;
+	border: 1px solid rgb(215, 215, 215);
+
+	border-top: none;
+	z-index: 9999;
+max-height: 400px;
+    overflow-y: auto;
+	}
+
+	.smart-search-wrapper>a {
+	width: calc(100% - 40px);
+	float: left;
+	text-overflow: ellipsis;
+	overflow: hidden;
+	white-space: pre;
+	color: #686767;
+	text-decoration: none;
+	line-height: 29px;
+	font-size: 13px;
+	font-family: sans-serif;
+	padding: 5px 160px 5px 5px;
+	position: relative;
+	height: 35px;
+	margin-bottom: 20px;
+	}
+
+	.smart-search-wrapper>a.select, .smart-search-wrapper>a:hover {
+	background: -webkit-linear-gradient(left, #fff,#EAEAEA); /* For Safari 5.1 to 6.0 */
+	background: -o-linear-gradient(left, #fff,#EAEAEA); /* For Opera 11.1 to 12.0 */
+	background: -moz-linear-gradient(left, #fff,#EAEAEA ); /* For Firefox 3.6 to 15 */
+	background: linear-gradient(left, #fff,#EAEAEA ); /* Standard syntax (must be last) */
+	color: #000;
+	}
+
+	.smart-search-wrapper>a>span.price-search {
+	position: absolute;
+	right: 5px;
+	top:0px;
+	}
+
+</style>
+
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 hidden-sm hidden-xs fr scroll-down2">
+					<div class="row control-box">
+						<ul class="ul-control-box">
+							
+							<li class="top-hotline">
+								<a href="/pages/tra-cuu-don-hang" title="Hot line">
+									<span class="div-user-control control-4">
+										<img src="//theme.hstatic.net/1000237375/1000304269/14/phone.png?v=3379"/ alt="MINH LONG BOOK">
+									</span>
+									<span class="info">Tra cứu đơn hàng</span>
+								</a>
+							</li>
+							
+							<li class="top-cart-block">
+								<a href="/cart" class="open-cart-popup" title="Giỏ hàng">
+									<span class="div-user-control control-4" id="cartItemsCount">
+									</span>
+									<span class="info">Giỏ hàng</span>
+									<span id="count_Cart" class="header-cart-count CartCount">0</span>
+								</a>
+							</li>
+							<li class="dropdown" id="segment_user_do_login">
+								<a class="info" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+									<div class="div-user-control control-2">
+									</div>
+									<span> Tài khoản </span>
+								</a>
+								<ul class="dropdown-menu info-user" aria-labelledby="dLabel">
+									
+									<li class="info"><a href="/account/login" class="login"><i class="fa fa-sign-in" aria-hidden="true"></i> Đăng nhập</a></li>
+									<li class="info"><a href="/account/register"><i class="fa fa-registered" aria-hidden="true"></i> Đăng ký</a></li>
+									
+								</ul>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<nav id="chir_main_menu" class="hidden-sm hidden-xs">
+		<div class="main">
+			<div class="container" style="position: relative;">
+				<div class="row">
+					<div class="col-md-2" id="ins_Sidebarmenu">
+						<div id="box-vertical-megamenus">
+	<div class="box-vertical-megamenus">
+		<h4 class="title">
+
+<i class="fa fa-bars"></i>
+			<span class="title-menu">Danh mục sách</span>
+		</h4>
+		<div class="vertical-menu-content">
+			<ul class="vertical-menu-list">
+				
+				
+				
+				<li class="">
+					<a class="" href="/" title="TRANG CHỦ" target="_self">
+						<img class="icon-menu" alt="TRANG CHỦ" src="//theme.hstatic.net/1000237375/1000304269/14/s1.png?v=3379" /><span class="">TRANG CHỦ</span>
+					</a>
+				</li>
+				
+				
+				
+				
+				
+				<li class=" liChild">
+					<a class="" href="/collections/sach-mam-non" title="SÁCH MẦM NON" target="_self">
+						<img class="icon-menu" alt="SÁCH MẦM NON" src="//theme.hstatic.net/1000237375/1000304269/14/s2.png?v=3379" /><span class="">SÁCH MẦM NON <i class="fa fa-angle-right" aria-hidden="true"></i></span>
+					</a>
+					<ul class="ulChildren lv2">
+						
+						<li><a href="/collections/be-vao-lop-mot" title="▶ Bé Vào Lớp 1">▶ Bé Vào Lớp 1</a>
+						
+						</li>
+						
+						<li><a href="/collections/tu-dien-tranh" title="▶ Từ Điển Tranh">▶ Từ Điển Tranh</a>
+						
+						</li>
+						
+						<li><a href="/collections/thu-cong-tap-to-tap-ve" title="▶ Thủ Công - Tập Tô">▶ Thủ Công - Tập Tô</a>
+						
+						</li>
+						
+						<li><a href="/collections/phat-trien-tri-tue" title="▶ Phát Triển Trí Tuệ">▶ Phát Triển Trí Tuệ</a>
+						
+						</li>
+						
+						<li><a href="/collections/combo-sach-mam-non" title="▶ Combo Sách Mầm Non">▶ Combo Sách Mầm Non</a>
+						
+						</li>
+						
+					</ul>
+				</li>
+				
+				
+				
+				
+				
+				
+				<li class=" liChild">
+					<a class="" href="/collections/sach-thieu-nhi" title="SÁCH THIẾU NHI" target="_self">
+						<img class="icon-menu" alt="SÁCH THIẾU NHI" src="//theme.hstatic.net/1000237375/1000304269/14/s3.png?v=3379" /><span class="">SÁCH THIẾU NHI <i class="fa fa-angle-right" aria-hidden="true"></i></span>
+					</a>
+					<ul class="ulChildren lv2">
+						
+						<li><a href="/collections/truyen-tranh-mau-mn" title="▶ Truyện Tranh Mầu">▶ Truyện Tranh Mầu</a>
+						
+						</li>
+						
+						<li><a href="/collections/sach-ky-nang-song" title="▶ Sách Kĩ Năng Sống">▶ Sách Kĩ Năng Sống</a>
+						
+						</li>
+						
+						<li><a href="/collections/sach-truyen-chu-mn" title="▶ Sách Truyện Chữ">▶ Sách Truyện Chữ</a>
+						
+						</li>
+						
+						<li><a href="/collections/kien-thuc-khoa-hoc" title="▶ Kiến Thức - Khoa Học">▶ Kiến Thức - Khoa Học</a>
+						
+						</li>
+						
+						<li><a href="/collections/tap-to-mau-kheo-tay" title="▶ Tập Tô Mầu - Khéo Tay">▶ Tập Tô Mầu - Khéo Tay</a>
+						
+						</li>
+						
+						<li><a href="/collections/combo-sach-thieu-nhi" title="▶ Combo Sách Thiếu Nhi">▶ Combo Sách Thiếu Nhi</a>
+						
+						</li>
+						
+					</ul>
+				</li>
+				
+				
+				
+				
+				
+				
+				<li class=" liChild">
+					<a class="" href="/collections/sach-ky-nang-all" title="SÁCH KĨ NĂNG" target="_self">
+						<img class="icon-menu" alt="SÁCH KĨ NĂNG" src="//theme.hstatic.net/1000237375/1000304269/14/s4.png?v=3379" /><span class="">SÁCH KĨ NĂNG <i class="fa fa-angle-right" aria-hidden="true"></i></span>
+					</a>
+					<ul class="ulChildren lv2">
+						
+						<li><a href="/collections/ky-nang" title="▶ KN - Sách Lẻ">▶ KN - Sách Lẻ</a>
+						
+						</li>
+						
+						<li><a href="/collections/combo-sach-kinh-doanh-ky-nang" title="▶ KN - Combo">▶ KN - Combo</a>
+						
+						</li>
+						
+					</ul>
+				</li>
+				
+				
+				
+				
+				
+				
+				<li class=" liChild">
+					<a class="" href="/collections/chuyen-muc-sach-kinh-doanh" title="SÁCH KINH DOANH" target="_self">
+						<img class="icon-menu" alt="SÁCH KINH DOANH" src="//theme.hstatic.net/1000237375/1000304269/14/s5.png?v=3379" /><span class="">SÁCH KINH DOANH <i class="fa fa-angle-right" aria-hidden="true"></i></span>
+					</a>
+					<ul class="ulChildren lv2">
+						
+						<li><a href="/collections/kinh-doanh" title="▶ KD - Sách Lẻ">▶ KD - Sách Lẻ</a>
+						
+						</li>
+						
+						<li><a href="/collections/combo-kinh-doanh" title="▶ KD - Combo">▶ KD - Combo</a>
+						
+						</li>
+						
+					</ul>
+				</li>
+				
+				
+				
+				
+				
+				
+				<li class=" liChild">
+					<a class="" href="/collections/sach-me-va-be" title="SÁCH MẸ VÀ BÉ" target="_self">
+						<img class="icon-menu" alt="SÁCH MẸ VÀ BÉ" src="//theme.hstatic.net/1000237375/1000304269/14/s6.png?v=3379" /><span class="">SÁCH MẸ VÀ BÉ <i class="fa fa-angle-right" aria-hidden="true"></i></span>
+					</a>
+					<ul class="ulChildren lv2">
+						
+						<li><a href="/collections/sach-me-va-be-31" title="▶ Sách Dành Cho Mẹ Bầu">▶ Sách Dành Cho Mẹ Bầu</a>
+						
+						</li>
+						
+						<li><a href="/collections/cham-soc-va-giao-duc-con" title="▶ Chăm Sóc Và Giáo Dục Con">▶ Chăm Sóc Và Giáo Dục Con</a>
+						
+						</li>
+						
+						<li><a href="/collections/combo-sach-me-va-be" title="▶ Combo Sách Mẹ Và Bé">▶ Combo Sách Mẹ Và Bé</a>
+						
+						</li>
+						
+					</ul>
+				</li>
+				
+				
+				
+				
+				
+				
+				<li class=" liChild">
+					<a class="" href="/collections/sach-van-hoc" title="SÁCH VĂN HỌC" target="_self">
+						<img class="icon-menu" alt="SÁCH VĂN HỌC" src="//theme.hstatic.net/1000237375/1000304269/14/s7.png?v=3379" /><span class="">SÁCH VĂN HỌC <i class="fa fa-angle-right" aria-hidden="true"></i></span>
+					</a>
+					<ul class="ulChildren lv2">
+						
+						<li><a href="/collections/van-hoc-nuoc-ngoai" title="▶ Văn Học Nước Ngoài">▶ Văn Học Nước Ngoài</a>
+						
+						</li>
+						
+						<li><a href="/collections/van-hoc-viet-nam" title="▶ Văn Học Việt Nam">▶ Văn Học Việt Nam</a>
+						
+						</li>
+						
+					</ul>
+				</li>
+				
+				
+				
+				
+				
+				
+				<li class=" liChild">
+					<a class="" href="/collections/sach-tham-khao" title="SÁCH THAM KHẢO" target="_self">
+						<img class="icon-menu" alt="SÁCH THAM KHẢO" src="//theme.hstatic.net/1000237375/1000304269/14/s8.png?v=3379" /><span class="">SÁCH THAM KHẢO <i class="fa fa-angle-right" aria-hidden="true"></i></span>
+					</a>
+					<ul class="ulChildren lv2">
+						
+						<li><a href="/collections/sach-tieu-hoc" title="▶ Sách Tiểu Học">▶ Sách Tiểu Học</a>
+						
+						</li>
+						
+						<li><a href="/collections/sach-trung-hoc-co-so" title="▶ Sách Trung Học Cơ Sở">▶ Sách Trung Học Cơ Sở</a>
+						
+						</li>
+						
+						<li><a href="/collections/sach-trung-hoc-pho-thong" title="▶ Sách Trung Học Phổ Thông">▶ Sách Trung Học Phổ Thông</a>
+						
+						</li>
+						
+						<li><a href="/collections/tu-dien-ngoai-ngu" title="▶ Từ Điển">▶ Từ Điển</a>
+						
+						</li>
+						
+					</ul>
+				</li>
+				
+				
+				
+				
+				
+				
+				<li class=" liChild">
+					<a class="" href="/collections/notebook" title="NOTEBOOK" target="_self">
+						<img class="icon-menu" alt="NOTEBOOK" src="//theme.hstatic.net/1000237375/1000304269/14/s9.png?v=3379" /><span class="">NOTEBOOK <i class="fa fa-angle-right" aria-hidden="true"></i></span>
+					</a>
+					<ul class="ulChildren lv2">
+						
+						<li><a href="/collections/phong-cach-song" title="▶ Phong Cách Sống">▶ Phong Cách Sống</a>
+						
+						</li>
+						
+						<li><a href="/collections/gia-dinh-than-yeu" title="▶ Gia Đình Thân Yêu">▶ Gia Đình Thân Yêu</a>
+						
+						</li>
+						
+						<li><a href="/collections/cung-hoang-dao" title="▶ Cung Hoàng Đạo">▶ Cung Hoàng Đạo</a>
+						
+						</li>
+						
+						<li><a href="/collections/combo-notebook" title="▶ Combo Notebook">▶ Combo Notebook</a>
+						
+						</li>
+						
+					</ul>
+				</li>
+				
+				
+				
+				
+				
+				
+				<li class=" liChild">
+					<a class="" href="/collections/do-choi-tre-em-duka" title="ĐỒ CHƠI TRẺ EM - VPP" target="_self">
+						<img class="icon-menu" alt="ĐỒ CHƠI TRẺ EM - VPP" src="//theme.hstatic.net/1000237375/1000304269/14/s10.png?v=3379" /><span class="">ĐỒ CHƠI TRẺ EM - VPP <i class="fa fa-angle-right" aria-hidden="true"></i></span>
+					</a>
+					<ul class="ulChildren lv2">
+						
+						<li><a href="/collections/happy-baby" title="Happy BaBy">Happy BaBy</a>
+						
+						</li>
+						
+						<li><a href="/collections/ghep-hinh-sang-tao" title="Ghép Hình Sáng Tạo">Ghép Hình Sáng Tạo</a>
+						
+						</li>
+						
+						<li><a href="/collections/do-choi-giao-duc" title="Đồ Chơi Giáo Duc">Đồ Chơi Giáo Duc</a>
+						
+						</li>
+						
+						<li><a href="/collections/do-choi-huong-nghiep" title="Đồ Chơi Hướng Nghiệp">Đồ Chơi Hướng Nghiệp</a>
+						
+						</li>
+						
+						<li><a href="/collections/o-to-do-choi" title="Ô Tô Đồ Chơi">Ô Tô Đồ Chơi</a>
+						
+						</li>
+						
+						<li><a href="/collections/but-sap-mau" title="Bút Sáp Màu">Bút Sáp Màu</a>
+						
+						</li>
+						
+					</ul>
+				</li>
+				
+				
+				
+				
+				
+				<li class="">
+					<a class="" href="/collections/san-pham-ban-chay" title="TOP BEST SELLER" target="_self">
+						<img class="icon-menu" alt="TOP BEST SELLER" src="//theme.hstatic.net/1000237375/1000304269/14/s11.png?v=3379" /><span class="">TOP BEST SELLER</span>
+					</a>
+				</li>
+				
+				
+				
+				
+				<li class="">
+					<a class="" href="/blogs/tin-tuc-su-kien" title="TIN TỨC/BLOG" target="_self">
+						<img class="icon-menu" alt="TIN TỨC/BLOG" src="//theme.hstatic.net/1000237375/1000304269/14/s12.png?v=3379" /><span class="">TIN TỨC/BLOG</span>
+					</a>
+				</li>
+				
+				
+			</ul>
+		</div>
+	</div>
+</div>
+					</div>
+					<div class="col-md-10 col-sm-12 col-xs-12" id="ins_Mainmenu" style="position: static;padding: 0;">
+						<div class="product-review">
+							<span>Sản phẩm đã xem</span>
+							<div class="product--review-list">
+
+								<div class="show">
+									<div class="product-seen">
+										<div id="owl-spdx" class="owl-carousel new-slide">
+
+										</div>
+
+										<div id="clone-item">
+											<div class="item hidden">
+												<a class="products-block-image css_boxImgTop" href="#">
+													<img src="" alt="">
+												</a>
+
+											</div>
+										</div>
+
+										<div class="view-all">
+											<a href="/pages/san-pham-da-xem">Xem tất cả</a>
+										</div>
+										
+									</div>
+								</div>
+								
+<script>
+
+var product_handle = 'phuong-phap-giai-cac-dang-toan-thpt-nguyen-ham-tich-phan-va-ung-dung';
+var last_view_products_current = localStorage.getItem('last_view_products');
+var max_last_view_products = 20;
+
+if( ! last_view_products_current ) {
+	last_view_products_current = [];
+} else {
+	last_view_products_current = JSON.parse(last_view_products_current);
+}
+
+if( last_view_products_current.indexOf(product_handle) == -1 ) {
+	if( last_view_products_current.length >= max_last_view_products ) {
+		last_view_products_current.shift();
+	}
+
+	last_view_products_current.push( product_handle );
+	localStorage.setItem('last_view_products', JSON.stringify(last_view_products_current));
+}else{
+	var remove_at = last_view_products_current.indexOf(product_handle); 
+	last_view_products_current.splice(remove_at, 1);
+	last_view_products_current.push(product_handle);
+	if( last_view_products_current.length >= max_last_view_products ) {
+		last_view_products_current.shift();
+	}
+}
+
+</script>
+
+
+
+
+<script>
+
+$(document).ready(function() {
+
+	var last_view_products = JSON.parse(localStorage.getItem('last_view_products'));
+
+	if( ! last_view_products ) {
+		$(document).ready(function() {
+			$('.product-viewed').hide();
+		});		
+		last_view_products = [];
+		return;
+	}
+	var	display = 20;
+
+	var display_items = last_view_products.length < display ? last_view_products.length : display;
+	var item_idx = 1;   
+
+	while( item_idx <= display_items ) {
+		var handle = last_view_products[last_view_products.length -  item_idx];
+
+		Haravan.getProduct( handle, function( product ) {
+			var item_product = $('#clone-item .item').clone().removeClass('hidden').appendTo('#owl-spdx');
+			item_product.find('.product-name').html(product.title);
+			item_product.find('.products-block-image img').attr('src',Haravan.resizeImage(product.featured_image, 'small'));
+			item_product.find('a').attr('href', product.url);
+			item_product.find('.pro-price-recent').html(Haravan.formatMoney(product.price,"{{amount}}₫" ));
+			item_product.find('.pro-price-compare-recent').html(Haravan.formatMoney(product.compare_at_price,"{{amount}}₫" ));
+		});
+		item_idx++;  
+	}
+
+	//$('#clone-item').remove();
+
+	//Carousel/////////////////////////////////////////
+
+	setTimeout(function() {
+		var owl_1 = $("#owl-spdx").owlCarousel({
+			autoPlay: true,
+			items : 6,
+			navigation: true
+		});
+		$(".spdx-next").click(function(){
+			owl_1.trigger('owl.next');
+		});
+		$(".spdx-prev").click(function(){
+			owl_1.trigger('owl.prev');
+		});
+		$('.pro-price-compare-recent').each(function() {
+			var val = parseInt($(this).html());
+			if(val == 0) {
+				$(this).remove();
+			}
+		});
+$('.product--review-list').hide();
+	}, 1000);
+
+	
+
+});
+
+</script>
+							</div>
+						</div>
+						<div class="navar_menu">
+							
+							<div class="chinhsach">
+								<div class="item">
+									<img src="//theme.hstatic.net/1000237375/1000304269/14/item_image_chinhsach_1.png?v=3379">
+									<p>Ship COD Trên Toàn Quốc</p>
+								</div>
+								<div class="item">
+									<img src="//theme.hstatic.net/1000237375/1000304269/14/item_image_chinhsach_2.png?v=3379">
+									<p>Free Ship Đơn Hàng Trên 300k</p>
+								</div>
+								<div class="item">
+									<img src="//theme.hstatic.net/1000237375/1000304269/14/item_image_chinhsach_3.png?v=3379">
+									<p>Hotline: 0989 849 396</p>
+								</div>
+							</div>
+						</div>
+
+					</div>
+				</div>
+			</div>
+		</div>
+	</nav>
+</header>
+
+<script>
+function goBack() {
+	window.history.back();
+}
+$(document).ready(function(){
+	$('.open-search').click(function(){
+		$('.chir_frm').toggleClass('open');	
+		$("#chir_search_head").toggleClass('open');
+	})
+	$('.coll-name').click(function(){
+		$('.sort-by-header').toggleClass('open');	
+	})
+	$('.product-review span').click(function(){
+		$('.product--review-list').toggleClass('open');	
+	})
+})
+</script>
+			
+			<div class="ins_main col-md-12 col-xs-12">
+				<div class="container">
+					<style>
+	.description img {
+	max-width: 100% !important;
+	width: auto !important;
+	height: auto !important;
+	}
+</style>
+
+
+
+
+
+
+
+
+
+
+<div id="insProduct">
+	<div class="breadcrumb-box">
+		<div class="container">
+			<div class="row">
+				<div class="chir_breadcrumb " >
+	<div class="container">
+		<ol class="breadcrumb breadcrumb-arrow hidden-sm hidden-xs">
+
+			<li><a href="/" target="_self">Trang chủ</a></li>
+
+			
+
+			<!--li><a href="/collections" target="_self">Danh mục</a></li-->
+
+			
+
+			
+
+			<li><a href="/collections/tat-ca-san-pham" target="_self">TẤT CẢ SẢN PHẨM</a></li>
+			
+			<li class="active"><span> Phương pháp giải các dạng toán THPT - Nguyên hàm, tích phân và ứng dụn</span></li>
+
+			
+
+		</ol>
+	</div>
+</div>
+			</div>
+		</div>
+	</div>
+	<div class="box_collection">
+		<div class="container">
+			<div class="information-blocks bg_w">
+				<div class="row">
+					<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 information-entry">
+						<div class="product-preview-box relative">
+
+							<button type="button" class=" try-to-read btn btn-info btn-lg" data-toggle="modal" data-target="#myModal"><img src="//theme.hstatic.net/1000237375/1000304269/14/30.png?v=3379"></button>
+
+
+							<div class="swiper-feature text-center">
+								<a class="pdFancybox" href="//product.hstatic.net/1000237375/product/uong-phap-giai-cac-dang-toan-thpt-nguyen-ham-tich-phan-va-ung-dung-440_master.jpg">
+									<img class="product-image-feature" src="//product.hstatic.net/1000237375/product/uong-phap-giai-cac-dang-toan-thpt-nguyen-ham-tich-phan-va-ung-dung-440_master.jpg" alt="Sách: Phương Pháp Giải Các Dạng Toán Thpt - Nguyên Hàm, Tích Phân Và Ứng Dụng">
+								</a>
+							</div>
+							
+							<div id="thumb_img" class="">
+								<ul class="slide_thumb_img owl_design" >
+									
+									<li class="product-thumb">
+										<a href="javascript:" data-image="//product.hstatic.net/1000237375/product/uong-phap-giai-cac-dang-toan-thpt-nguyen-ham-tich-phan-va-ung-dung-440_master.jpg" data-zoom-image="//product.hstatic.net/1000237375/product/uong-phap-giai-cac-dang-toan-thpt-nguyen-ham-tich-phan-va-ung-dung-440_master.jpg">
+											<img alt="Sách: Phương Pháp Giải Các Dạng Toán Thpt - Nguyên Hàm, Tích Phân Và Ứng Dụng" data-image="//product.hstatic.net/1000237375/product/uong-phap-giai-cac-dang-toan-thpt-nguyen-ham-tich-phan-va-ung-dung-440_master.jpg" src="//product.hstatic.net/1000237375/product/uong-phap-giai-cac-dang-toan-thpt-nguyen-ham-tich-phan-va-ung-dung-440_compact.jpg" >
+										</a>
+									</li>	
+									
+									<li class="product-thumb">
+										<a href="javascript:" data-image="//product.hstatic.net/1000237375/product/img_3998_master.jpg" data-zoom-image="//product.hstatic.net/1000237375/product/img_3998_master.jpg">
+											<img alt="Sách: Phương Pháp Giải Các Dạng Toán Thpt - Nguyên Hàm, Tích Phân Và Ứng Dụng" data-image="//product.hstatic.net/1000237375/product/img_3998_master.jpg" src="//product.hstatic.net/1000237375/product/img_3998_compact.jpg" >
+										</a>
+									</li>	
+									
+								</ul>
+							</div>
+							
+
+							<!-- Modal -->
+							<div id="myModal" class="modal fade" role="dialog">
+								<div class="modal-dialog">
+
+									<!-- Modal content-->
+									<div class="modal-content">
+										<div class="modal-header">
+											<button type="button" class="close" data-dismiss="modal">&times;</button>
+											<h4 class="modal-title">Sách: Phương Pháp Giải Các Dạng Toán Thpt - Nguyên Hàm, Tích Phân Và Ứng Dụng</h4>
+										</div>
+										<div class="modal-body">
+											<div class="info-books-modal hidden-xs">
+
+												<div class="col-md-8 col-xs-8" style="margin: 10px auto; float: none;">
+													<img class="product-image-feature" src="//product.hstatic.net/1000237375/product/uong-phap-giai-cac-dang-toan-thpt-nguyen-ham-tich-phan-va-ung-dung-440_master.jpg" alt="Sách: Phương Pháp Giải Các Dạng Toán Thpt - Nguyên Hàm, Tích Phân Và Ứng Dụng">
+												</div>
+												<div class="col-xs-12 col-sm-12 information-entry">
+													<div class="product-detail-box">
+														<h1 class="product-title">Sách: Phương Pháp Giải Các Dạng Toán Thpt - Nguyên Hàm, Tích Phân Và Ứng Dụng</h1>
+														<div class="author_product">
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+
+															
+															
+															
+															Tác giả :<a href="https://shop.minhlongbook.vn/collections/tat-ca-san-pham/tacgia-le-hong-duc-chu-bien-do-hoang-ha-le-hoang-nam-doan-minh-chau-dao-thi-ngoc-ha">LÊ HỒNG ĐỨC (Chủ biên) - ĐỖ HOÀNG HÀ - LÊ HOÀNG NAM - ĐOÀN MINH CHÂU - ĐÀO THỊ NGỌC HÀ</a>
+
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+														</div>
+														<div class="row">
+															<div class="col-sm-12 col-xs-12 left_box">
+																<div class="price detail-info-entry">
+																	
+																	<div class="current">91,200₫</div>
+																	<div class="prev">152,000₫</div>
+																	
+																	
+																	<div class="sale">
+																		Giảm 40%
+																	</div>
+																	
+																</div>
+																<div class="select clearfix">
+																	<select id="product-select" name="id" style="display:none">
+																		
+																		<option value="1020914574">Default Title - 91,200₫</option>
+																		
+																	</select>
+																</div>
+																<div class="select-swatch">							
+																	
+																</div>
+															</div>
+														</div>
+
+														<div class="clearfix"></div>
+
+														<div class="product_socaial">
+															<div class="box_social">
+																<div class="fb">
+																	<div class="fb-like" data-href="https://shop.minhlongbook.vn/products/phuong-phap-giai-cac-dang-toan-thpt-nguyen-ham-tich-phan-va-ung-dung" data-layout="button_count" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
+																</div>
+																<div class="gg">
+																	<div class="g-plus" data-action="share" data-annotation="none" data-href="https://shop.minhlongbook.vn/products/phuong-phap-giai-cac-dang-toan-thpt-nguyen-ham-tich-phan-va-ung-dung"></div>
+																</div>
+															</div>
+														</div>
+													</div>
+												</div>
+											</div>
+
+
+											<div class="col-md-9 col-xs-12 pdf-book-modal">
+												</p><p><span contenteditable="false" data-mce-object="iframe" class="mce-preview-object mce-object-iframe" data-mce-p-src="https://drive.google.com/file/d/1ELLogS9oAy9PIq95OOcouiKAaBbkT9uz/preview"><iframe src="https://drive.google.com/file/d/1ELLogS9oAy9PIq95OOcouiKAaBbkT9uz/preview" width="100%" height="480" frameborder="0"></iframe><span class="mce-shim"></span></span></p>
+											</div>
+
+										</div>
+										<div class="modal-footer">
+											<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+										</div>
+									</div>
+
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 information-entry">
+						<div class="product-detail-box">
+
+							<h1 class="product-title">Sách: Phương Pháp Giải Các Dạng Toán Thpt - Nguyên Hàm, Tích Phân Và Ứng Dụng</h1>
+							<span class="sku"><strong>Mã sản phẩm:</strong> 8936067598063</span>
+
+							<div class="author_product">
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								Tác giả :
+								
+								
+								
+								<a href="https://shop.minhlongbook.vn/collections/tat-ca-san-pham/tacgia-le-hong-duc-chu-bien-do-hoang-ha-le-hoang-nam-doan-minh-chau-dao-thi-ngoc-ha">LÊ HỒNG ĐỨC (Chủ biên) - ĐỖ HOÀNG HÀ - LÊ HOÀNG NAM - ĐOÀN MINH CHÂU - ĐÀO THỊ NGỌC HÀ</a>
+
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+							</div>
+							<div class="numbe_of_pages">
+
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+							</div>
+							
+							<div class="NXB_product">
+								<span>NXB: Đại Học Quốc Gia Hà Nội</span>
+							</div>
+							
+
+
+							<div class="dotuoi_product">
+
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+							</div>
+							<div class="size_product">
+
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								Kích thước :  19 x 26 cm
+
+								
+								
+								
+								
+							</div>
+							<div class="year_product">
+
+								
+								
+								
+								
+								
+								Năm xuất bản : 2017
+
+								
+								
+								
+								
+								
+								
+								
+								
+							</div>
+							<div class="numbe_of_pages">
+
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								Số trang : 328
+
+								
+								
+							</div>
+							
+							<div class="numbe_of_pages">
+
+
+								Khối lượng : 600 grams
+
+							</div>
+							
+							<div class="book_cover">
+
+								
+								
+								
+								
+								
+								
+								
+								Bìa : bìa mềm
+
+								
+								
+								
+								
+								
+								
+							</div>							
+
+							<div class="row">
+								<div class="col-sm-5 col-xs-5 left_box">
+									<div class="price detail-info-entry">
+										
+										<div class="current">91,200₫</div>
+										<div class="prev">152,000₫</div>
+										
+										
+										<div class=" sale">
+											Giảm 40%
+										</div>
+										
+									</div>
+									<div class="quantity-selector detail-info-entry">
+										<div class="detail-info-entry-title">Số lượng</div>
+										<div class="entry number-minus">&nbsp;</div>
+										<div class="entry number">1</div>
+										<div class="entry number-plus">&nbsp;</div>
+									</div>
+									<div class="select clearfix">
+										<select id="product-select" name="id" style="display:none">
+											
+											<option value="1020914574">Default Title - 91,200₫</option>
+											
+										</select>
+									</div>
+									<div class="select-swatch">							
+										
+									</div>
+								</div>
+								
+								<div class="col-sm-7 col-xs-7 right_box text-left  hidden-xs">
+									<div class="pd_policy">
+										<h3>Dịch vụ của chúng tôi</h3>
+										<p class="serv-1">Giao tận nhà trong 3 - 7 ngày làm việc.</p>
+										<p class="serv-2">Miễn phí giao hàng Toàn Quốc cho đơn hàng trên 300k.</p>
+									</div>
+								</div>
+								
+							</div>
+
+							<div class="clearfix"></div>
+							<div class="detail-info-entry pd_action">
+								<a href="javascript:void(0)" class="button btn-outline btn-addCart ">Thêm vào giỏ</a>
+															
+								<a href="javascript:void(0)" class="button btn-outline btn-Soldout hidden">Hết hàng</a>
+								<div class="clear"></div>
+							</div>
+							<div class="detail-info-entry pd_action pd_action_moblie visible-xs">
+								<a href="javascript:void(0)" class="button btn-outline btn-addCart ">Thêm vào giỏ hàng</a>
+															
+								<a href="javascript:void(0)" class="button btn-outline btn-Soldout hidden">Hết hàng</a>
+								<div class="clear"></div>
+							</div>
+							
+							<div class="pd_saler">
+								<h3>Dịch vụ & Khuyến mãi</h3>
+								
+								<p>
+									🔖Giảm giá từ 20%, 30%,40% ...Cho tất cả các dòng sách
+								</p>
+								
+								
+								<p>
+									🎁Tặng bookmark cho tất cả các đơn hàng, 
+
+
+								</p>
+								
+								
+								<p>
+									🎁 Tặng móc khoá cho đơn hàng 200k 
+
+
+								</p>
+								
+								
+								<p>
+									🎁 Tăng sổ tay + Freeship cho đơn hàng 300K.
+								</p>
+								
+								
+								<p>
+									
+🎁 Tăng 1 túi vải + Freeship cho đơn hàng 500K
+								</p>
+								
+							</div>
+							
+							<div class="product_socaial">
+								<div class="box_social">
+									<div class="fb">
+										<div class="fb-like" data-href="https://shop.minhlongbook.vn/products/phuong-phap-giai-cac-dang-toan-thpt-nguyen-ham-tich-phan-va-ung-dung" data-layout="button_count" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
+									</div>
+									<div class="gg">
+										<div class="g-plus" data-action="share" data-annotation="none" data-href="https://shop.minhlongbook.vn/products/phuong-phap-giai-cac-dang-toan-thpt-nguyen-ham-tich-phan-va-ung-dung"></div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+
+
+			<div class="wrapper-deatil">
+				<div class="row">
+					<div class="col-md-9 col-sm-9 col-xs-12">
+						<div role="tabpanel" class="product-comment">
+							<!-- Nav tabs -->
+							<ul class="nav nav-tabs" id="page-product" role="tablist">
+								<li role="presentation" class="active"><a  href="#mota" aria-controls="mota" role="tab" data-toggle="tab">
+									<div class="title_chir">
+										<h2>
+											Mô tả 
+										</h2>
+									</div></a></li>
+								<li role="presentation">
+									<a href="#binhluan" aria-controls="binhluan" role="tab" data-toggle="tab"  role="tab">
+										<div class="title_chir">
+											<h2>
+												Bình luận
+											</h2>
+										</div></a>
+								</li>
+
+							</ul>
+							<!-- Tab panes -->
+							<div class="tab-content">
+								<div role="tabpanel" class="tab-pane active" id="mota">
+									<div class="container-fluid product-description-wrapper">
+										
+										
+										<p><span>&nbsp;</span><span>Nhóm HỒNG ĐỨC chúng tôi luôn mong muốn bộ sách này đáp ứng được nhu cầu thực sự hiện nay "Đổi mới phương pháp dạy học theo hướng lấy học trò làm trung tâm" và hy vọng rằng bộ sách sẽ được thầy giáo, cô giáo và các em học sinh đón đọc.</span><br><span>&nbsp; &nbsp;&nbsp;</span><span>Cuốn Nguyên hàm, Tích phân và Ứng dụng bao gồm sáu bài giảng:<br>Bài giảng 1. Nguyên hàm<br>Bài giảng 2. Một số phương pháp tìm nguyên hàm<br>Bài giảng 3. Tích phân<br>Bài giảng 4. Một số phương pháp tính tích phân<br>Bài giảng 5. Ứng dụng tích phân để tính diện tích hình phẳng<br>Bài giảng 6. Ứng dụng tích phân để tính thể tích vật thể<br>Mỗi Bài giảng được trình bày thành ba phần:<br>A. Cơ sở lí thuyết: Nhiều em học sinh lúng túng khi gặp các bài toán về nguyên hàm, tích phân và ứng dụng nên phần này được trình bày một cách chi tiết cùng các ví dụ minh họa kèm theo.<br>NGUYÊN HÀM - TÍCH PHÂN VÀ ỨNG DỤNG<br>B. Phương pháp giải các dạng toán: Nhiều ví dụ trong phần này được trình bày theo lược đồ:<br>Ví dụ Þ Hướng dẫn Þ Giải Þ Nhận xét - Sáng tạo<br>C. Bài tập<br>Hướng dẫn - Đáp số</span><br><span>&nbsp; &nbsp;&nbsp;</span><span>Để cuốn sách ngày càng hoàn thiện hơn Nhóm HỒNG ĐỨC chúng tôi rất mong nhận được những ý kiến đóng góp quý báu của bạn đọc gần xa.&nbsp;</span><br>
+										
+									</div>
+								</div>
+
+								<div role="tabpanel" class="tab-pane" id="binhluan">
+									<div class="container-fluid">
+
+
+										<div class="fb-comments" data-href="https://shop.minhlongbook.vn/products/phuong-phap-giai-cac-dang-toan-thpt-nguyen-ham-tich-phan-va-ung-dung" data-width="100%" data-numposts="5"></div>
+
+										<div id="fb-root"></div>				<!-- script comment fb -->
+										<script>(function(d, s, id) {
+	var js, fjs = d.getElementsByTagName(s)[0];
+	if (d.getElementById(id)) return;
+	js = d.createElement(s); js.id = id;
+	js.src = "//connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v2.4&appId=1376564555975870";
+	fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-3 col-sm-3 col-xs-12">
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						<div class="information-blocks product_top_bestseller">
+							<div class="related_product">
+								<div class="tabs-container style-1">
+									<div class="pdRelated">
+										<div class="">
+											<h2>
+												<a href="">Sản phẩm bán chạy</a>
+											</h2>
+										</div>
+										<div>
+											<div class="tabs-entry bg_w">
+												<div class="article-container style-1">
+													<div class="content-product-list">
+
+
+
+														
+
+													</div>
+												</div>
+												<div class="readmore">
+													<a href="/collections/giatot">
+														Xem thêm
+													</a>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						
+						<div class="banner_sidebar">
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+						</div>
+					</div>
+				</div>
+			</div>
+			
+			<div class="information-blocks">
+				<div class="related_product">
+					<div class="tabs-container style-1">
+						<div class="pdRelated">
+							<div class="title_chir">
+								<h2>
+									Sản phẩm liên quan
+								</h2>
+							</div>
+							<div>
+								<div class="tabs-entry bg_w">
+									<div class="article-container style-1">
+										<div class="content-related-product owl_design ">
+											           
+											             
+											
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<li class="item_product">
+		<div class="chir_loop loop_item insScroll">
+			<div class="chir-img">
+
+				
+				
+				<div class="insLabel sale visible-xs">
+					<span>- 40%</span>
+				</div>
+				
+				<a href="/collections/tat-ca-san-pham/products/phuong-phap-giai-cac-dang-toan-thpt-hinh-hoc-khong-gian" title="Sách: Phương Pháp Giải Các Dạng Toán Thpt- Hình Học Không Gian">
+					<img class="image-product" alt="Sách: Phương Pháp Giải Các Dạng Toán Thpt- Hình Học Không Gian" src="//product.hstatic.net/1000237375/product/phuong-phap-giai-cac-dang-toan-thpt-hinh-hoc-khong-gian-440_167d406841ce4db3906dccef93e82fcc_large.jpg" alt=" Sách: Phương Pháp Giải Các Dạng Toán Thpt- Hình Học Không Gian " />
+				</a>
+				
+				<div class="insActionloop">
+					<a href="javascript:void(0)" class="quick_views btn-quickview-1" data-handle="/products/phuong-phap-giai-cac-dang-toan-thpt-nguyen-ham-tich-phan-va-ung-dung" data-toggle="tooltip" data-placement="top" title="Xem nhanh"><img src="//theme.hstatic.net/1000237375/1000304269/14/zoom_black.png?v=3379" alt="Xem nhanh" title="Xem nhanh" /></a>
+					<a href="/collections/tat-ca-san-pham/products/phuong-phap-giai-cac-dang-toan-thpt-nguyen-ham-tich-phan-va-ung-dung"  class="view_product" data-toggle="tooltip" data-placement="top" title="Xem chi tiết"><img src="//theme.hstatic.net/1000237375/1000304269/14/eye.png?v=3379" alt="Xem chi tiết" title="Xem chi tiết" /></a>
+					
+					<a href="javascript:void(0)" style="border:none" class="add-cart design_cart Addcart" data-variantid="1020914576" data-toggle="tooltip" data-placement="top" title="Thêm vào giỏ"><img src="//theme.hstatic.net/1000237375/1000304269/14/cart.png?v=3379" alt="Thêm vào giỏ" title="Thêm vào giỏ" /></a>
+					
+				</div>
+				
+				
+			</div>
+			<div class="product-detail clearfix">
+				<h3 class="pro-name"><a href="/collections/tat-ca-san-pham/products/phuong-phap-giai-cac-dang-toan-thpt-nguyen-ham-tich-phan-va-ung-dung" title="Sách: Phương Pháp Giải Các Dạng Toán Thpt- Hình Học Không Gian">Sách: Phương Pháp Giải Các Dạng Toán ... </a></h3>
+				<p class="pro-price">
+					<del class="compare-price">159,000₫</del>
+
+					95,400₫ 
+					
+					<span class=" sale hidden-xs">
+						<span>- 40%</span>
+					</span>
+					
+				</p>
+
+
+				<div class="product_view_list">
+					<ul>
+						<li><strong>Mã sản phẩm: </strong><span>8936067598193</span></li>
+						<li><strong>NXB: </strong><span>Đại Học Quốc Gia Hà Nội</span></li>
+						<li>
+
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+
+							
+							
+
+							
+							
+
+							
+							
+
+							
+							
+
+							
+							
+
+							
+							<div class="numbe_of_pages">
+								Tác giả :
+							</div>
+							
+
+							
+
+							
+
+
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+
+
+
+
+						</li>
+						<li>
+							<strong>Mô tả ngắn: </strong>Bộ sách PHƯƠNG PHÁP GIẢI CÁC DẠNG TOÁN THPT là tài liệu tham khảo chuyên sâu nhằm cung cấp cho các thầy, cô giáo và các em học sinh những bài giảng để hoàn thiện và nâng cao kiến thức. Từ đó, hướng tới những...
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</li>
+
+        
+											             
+											
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<li class="item_product">
+		<div class="chir_loop loop_item insScroll">
+			<div class="chir-img">
+
+				
+				
+				<div class="insLabel sale visible-xs">
+					<span>- 40%</span>
+				</div>
+				
+				<a href="/collections/tat-ca-san-pham/products/phuong-phap-giai-cac-dang-toan-thpt-phuong-phap-toa-do-trong-khong-gian" title="Sách: Phương Pháp Giải Các Dạng Toán Thpt - Phương Pháp Tọa Độ Trong Không Gian">
+					<img class="image-product" alt="Sách: Phương Pháp Giải Các Dạng Toán Thpt - Phương Pháp Tọa Độ Trong Không Gian" src="//product.hstatic.net/1000237375/product/g-phap-giai-cac-dang-toan-thpt-phuong-phap-toa-do-trong-khong-gian-440_large.jpg" alt=" Sách: Phương Pháp Giải Các Dạng Toán Thpt - Phương Pháp Tọa Độ Trong Không Gian " />
+				</a>
+				
+				<div class="insActionloop">
+					<a href="javascript:void(0)" class="quick_views btn-quickview-1" data-handle="/products/phuong-phap-giai-cac-dang-toan-thpt-nguyen-ham-tich-phan-va-ung-dung" data-toggle="tooltip" data-placement="top" title="Xem nhanh"><img src="//theme.hstatic.net/1000237375/1000304269/14/zoom_black.png?v=3379" alt="Xem nhanh" title="Xem nhanh" /></a>
+					<a href="/collections/tat-ca-san-pham/products/phuong-phap-giai-cac-dang-toan-thpt-nguyen-ham-tich-phan-va-ung-dung"  class="view_product" data-toggle="tooltip" data-placement="top" title="Xem chi tiết"><img src="//theme.hstatic.net/1000237375/1000304269/14/eye.png?v=3379" alt="Xem chi tiết" title="Xem chi tiết" /></a>
+					
+					<a href="javascript:void(0)" style="border:none" class="add-cart design_cart Addcart" data-variantid="1020914634" data-toggle="tooltip" data-placement="top" title="Thêm vào giỏ"><img src="//theme.hstatic.net/1000237375/1000304269/14/cart.png?v=3379" alt="Thêm vào giỏ" title="Thêm vào giỏ" /></a>
+					
+				</div>
+				
+				
+			</div>
+			<div class="product-detail clearfix">
+				<h3 class="pro-name"><a href="/collections/tat-ca-san-pham/products/phuong-phap-giai-cac-dang-toan-thpt-nguyen-ham-tich-phan-va-ung-dung" title="Sách: Phương Pháp Giải Các Dạng Toán Thpt - Phương Pháp Tọa Độ Trong Không Gian">Sách: Phương Pháp Giải Các Dạng Toán ... </a></h3>
+				<p class="pro-price">
+					<del class="compare-price">133,000₫</del>
+
+					79,800₫ 
+					
+					<span class=" sale hidden-xs">
+						<span>- 40%</span>
+					</span>
+					
+				</p>
+
+
+				<div class="product_view_list">
+					<ul>
+						<li><strong>Mã sản phẩm: </strong><span>8936067597684</span></li>
+						<li><strong>NXB: </strong><span>Đại Học Quốc Gia Hà Nội</span></li>
+						<li>
+
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+
+							
+							
+
+							
+							
+
+							
+							
+
+							
+							
+
+							
+							<div class="numbe_of_pages">
+								Tác giả :
+							</div>
+							
+
+							
+							
+
+							
+
+							
+
+
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+
+
+
+
+						</li>
+						<li>
+							<strong>Mô tả ngắn: </strong>Bộ sách PHƯƠNG PHÁP GIẢI CÁC DẠNG TOÁN THPT là tài liệu tham khảo chuyên sâu để cung cấp cho các thầy giáo, cô giáo và các em học sinh các bài giảng để hoàn thiện rồi nâng cao kiến thức. Từ đó, hướng tới...
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</li>
+
+        
+											             
+											
+
+
+
+
+
+
+
+
+
+
+
+	<li class="item_product">
+		<div class="chir_loop loop_item insScroll">
+			<div class="chir-img">
+
+				
+				<div class="insLabel soldout">
+					<span>Hết hàng</span>
+				</div>
+				
+				
+				<a href="/collections/tat-ca-san-pham" title="">
+					<img class="image-product" alt="" src="//hstatic.net/0/0/global/design/theme-default/no-image.png" alt="  " />
+				</a>
+				
+				<div class="insActionloop">
+					<a href="javascript:void(0)" class="quick_views btn-quickview-1" data-handle="/products/phuong-phap-giai-cac-dang-toan-thpt-nguyen-ham-tich-phan-va-ung-dung" data-toggle="tooltip" data-placement="top" title="Xem nhanh"><img src="//theme.hstatic.net/1000237375/1000304269/14/zoom_black.png?v=3379" alt="Xem nhanh" title="Xem nhanh" /></a>
+					<a href="/collections/tat-ca-san-pham/products/phuong-phap-giai-cac-dang-toan-thpt-nguyen-ham-tich-phan-va-ung-dung"  class="view_product" data-toggle="tooltip" data-placement="top" title="Xem chi tiết"><img src="//theme.hstatic.net/1000237375/1000304269/14/eye.png?v=3379" alt="Xem chi tiết" title="Xem chi tiết" /></a>
+					
+					<a href="javascript:void(0)" class="add-cart design_cart Soldoutcart" data-toggle="tooltip" data-placement="top" title="Hết hàng"><img src="//theme.hstatic.net/1000237375/1000304269/14/cart.png?v=3379" alt="Hết hàng" title="Hết hàng" /></a>
+					
+				</div>
+				
+				
+			</div>
+			<div class="product-detail clearfix">
+				<h3 class="pro-name"><a href="/collections/tat-ca-san-pham/products/phuong-phap-giai-cac-dang-toan-thpt-nguyen-ham-tich-phan-va-ung-dung" title="">Sách: Phương Pháp Giải Các Dạng Toán ... </a></h3>
+				<p class="pro-price">
+					
+
+					0₫ 
+					
+				</p>
+
+
+				<div class="product_view_list">
+					<ul>
+						<li><strong>Mã sản phẩm: </strong><span>chưa rõ</span></li>
+						<li><strong>NXB: </strong><span>chưa rõ</span></li>
+						<li>
+
+							
+							
+							
+
+							
+
+							
+
+
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+
+
+
+
+						</li>
+						<li>
+							<strong>Mô tả ngắn: </strong>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</li>
+
+        
+											             
+											
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<li class="item_product">
+		<div class="chir_loop loop_item insScroll">
+			<div class="chir-img">
+
+				
+				
+				<div class="insLabel sale visible-xs">
+					<span>- 60%</span>
+				</div>
+				
+				<a href="/collections/tat-ca-san-pham/products/phuong-phap-giai-cac-dang-toan-thpt-phuong-phap-toa-do-trong-mat-phang" title="Sách: Phương Pháp Giải Các Dạng Toán Thpt - Phương Pháp Tọa Độ Trong Mặt Phẳng">
+					<img class="image-product" alt="Sách: Phương Pháp Giải Các Dạng Toán Thpt - Phương Pháp Tọa Độ Trong Mặt Phẳng" src="//product.hstatic.net/1000237375/product/ng-phap-giai-cac-dang-toan-thpt-phuong-phap-toa-do-trong-mat-phang-440_large.jpg" alt=" Sách: Phương Pháp Giải Các Dạng Toán Thpt - Phương Pháp Tọa Độ Trong Mặt Phẳng " />
+				</a>
+				
+				<div class="insActionloop">
+					<a href="javascript:void(0)" class="quick_views btn-quickview-1" data-handle="/products/phuong-phap-giai-cac-dang-toan-thpt-nguyen-ham-tich-phan-va-ung-dung" data-toggle="tooltip" data-placement="top" title="Xem nhanh"><img src="//theme.hstatic.net/1000237375/1000304269/14/zoom_black.png?v=3379" alt="Xem nhanh" title="Xem nhanh" /></a>
+					<a href="/collections/tat-ca-san-pham/products/phuong-phap-giai-cac-dang-toan-thpt-nguyen-ham-tich-phan-va-ung-dung"  class="view_product" data-toggle="tooltip" data-placement="top" title="Xem chi tiết"><img src="//theme.hstatic.net/1000237375/1000304269/14/eye.png?v=3379" alt="Xem chi tiết" title="Xem chi tiết" /></a>
+					
+					<a href="javascript:void(0)" style="border:none" class="add-cart design_cart Addcart" data-variantid="1020914638" data-toggle="tooltip" data-placement="top" title="Thêm vào giỏ"><img src="//theme.hstatic.net/1000237375/1000304269/14/cart.png?v=3379" alt="Thêm vào giỏ" title="Thêm vào giỏ" /></a>
+					
+				</div>
+				
+				
+			</div>
+			<div class="product-detail clearfix">
+				<h3 class="pro-name"><a href="/collections/tat-ca-san-pham/products/phuong-phap-giai-cac-dang-toan-thpt-nguyen-ham-tich-phan-va-ung-dung" title="Sách: Phương Pháp Giải Các Dạng Toán Thpt - Phương Pháp Tọa Độ Trong Mặt Phẳng">Sách: Phương Pháp Giải Các Dạng Toán ... </a></h3>
+				<p class="pro-price">
+					<del class="compare-price">150,000₫</del>
+
+					60,000₫ 
+					
+					<span class=" sale hidden-xs">
+						<span>- 60%</span>
+					</span>
+					
+				</p>
+
+
+				<div class="product_view_list">
+					<ul>
+						<li><strong>Mã sản phẩm: </strong><span>8936067597769</span></li>
+						<li><strong>NXB: </strong><span>Đại Học Quốc Gia Hà Nội</span></li>
+						<li>
+
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+
+							
+							
+
+							
+							
+
+							
+							<div class="numbe_of_pages">
+								Tác giả :
+							</div>
+							
+
+							
+							
+
+							
+							
+
+							
+							
+
+							
+
+							
+
+
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+
+
+
+
+						</li>
+						<li>
+							<strong>Mô tả ngắn: </strong>Bộ sách PHƯƠNG PHÁP GIẢI CÁC DẠNG TOÁN THPT là tài liệu tham khảo chuyên sâu để cung cấp cho các thầy giáo, cô giáo và các em học sinh các bài giảng để hoàn thiện rồi nâng cao kiến thức. Từ đó, hướng tới...
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</li>
+
+        
+											             
+											
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<li class="item_product">
+		<div class="chir_loop loop_item insScroll">
+			<div class="chir-img">
+
+				
+				
+				<div class="insLabel sale visible-xs">
+					<span>- 60%</span>
+				</div>
+				
+				<a href="/collections/tat-ca-san-pham/products/phuong-phap-giai-cac-dang-toan-thpt-mu-va-logarit" title="Sách: Phương Pháp Giải Các Dạng Toán Thpt - Mũ Và Logarit">
+					<img class="image-product" alt="Sách: Phương Pháp Giải Các Dạng Toán Thpt - Mũ Và Logarit" src="//product.hstatic.net/1000237375/product/phuong-phap-giai-cac-dang-toan-thpt-mu-va-logarit-440_large.jpg" alt=" Sách: Phương Pháp Giải Các Dạng Toán Thpt - Mũ Và Logarit " />
+				</a>
+				
+				<div class="insActionloop">
+					<a href="javascript:void(0)" class="quick_views btn-quickview-1" data-handle="/products/phuong-phap-giai-cac-dang-toan-thpt-nguyen-ham-tich-phan-va-ung-dung" data-toggle="tooltip" data-placement="top" title="Xem nhanh"><img src="//theme.hstatic.net/1000237375/1000304269/14/zoom_black.png?v=3379" alt="Xem nhanh" title="Xem nhanh" /></a>
+					<a href="/collections/tat-ca-san-pham/products/phuong-phap-giai-cac-dang-toan-thpt-nguyen-ham-tich-phan-va-ung-dung"  class="view_product" data-toggle="tooltip" data-placement="top" title="Xem chi tiết"><img src="//theme.hstatic.net/1000237375/1000304269/14/eye.png?v=3379" alt="Xem chi tiết" title="Xem chi tiết" /></a>
+					
+					<a href="javascript:void(0)" style="border:none" class="add-cart design_cart Addcart" data-variantid="1020914637" data-toggle="tooltip" data-placement="top" title="Thêm vào giỏ"><img src="//theme.hstatic.net/1000237375/1000304269/14/cart.png?v=3379" alt="Thêm vào giỏ" title="Thêm vào giỏ" /></a>
+					
+				</div>
+				
+				
+			</div>
+			<div class="product-detail clearfix">
+				<h3 class="pro-name"><a href="/collections/tat-ca-san-pham/products/phuong-phap-giai-cac-dang-toan-thpt-nguyen-ham-tich-phan-va-ung-dung" title="Sách: Phương Pháp Giải Các Dạng Toán Thpt - Mũ Và Logarit">Sách: Phương Pháp Giải Các Dạng Toán ... </a></h3>
+				<p class="pro-price">
+					<del class="compare-price">123,000₫</del>
+
+					49,200₫ 
+					
+					<span class=" sale hidden-xs">
+						<span>- 60%</span>
+					</span>
+					
+				</p>
+
+
+				<div class="product_view_list">
+					<ul>
+						<li><strong>Mã sản phẩm: </strong><span>8936067597615</span></li>
+						<li><strong>NXB: </strong><span>Đại Học Quốc Gia Hà Nội</span></li>
+						<li>
+
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+
+							
+							
+
+							
+							
+
+							
+							<div class="numbe_of_pages">
+								Tác giả :
+							</div>
+							
+
+							
+							
+
+							
+							
+
+							
+							
+
+							
+
+							
+
+
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+
+
+
+
+						</li>
+						<li>
+							<strong>Mô tả ngắn: </strong>Bộ sách GIẢI CÁC DẠNG TOÁN THPT là tài liệu tham khảo chuyên sâu để cung cấp cho các thầy giáo, cô giáo và các em học sinh các bài giảng để hoàn thiện rồi nâng cao kiến thức. Từ đó, hướng tới những sáng...
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</li>
+
+        
+											             
+											
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<li class="item_product">
+		<div class="chir_loop loop_item insScroll">
+			<div class="chir-img">
+
+				
+				
+				<div class="insLabel sale visible-xs">
+					<span>- 60%</span>
+				</div>
+				
+				<a href="/collections/tat-ca-san-pham/products/phuong-phap-giai-cac-dang-toan-thpt-bat-dang-thuc-gia-tri-lon-nhat-va-nho-nhat" title="Sách: Phương Pháp Giải Các Dạng Toán Thpt - Bất Đẳng Thức, Giá Trị Lớn Nhất Và Nhỏ Nhất">
+					<img class="image-product" alt="Sách: Phương Pháp Giải Các Dạng Toán Thpt - Bất Đẳng Thức, Giá Trị Lớn Nhất Và Nhỏ Nhất" src="//product.hstatic.net/1000237375/product/giai-cac-dang-toan-thpt-bat-dang-thuc-gia-tri-lon-nhat-va-nho-nhat-440_large.jpg" alt=" Sách: Phương Pháp Giải Các Dạng Toán Thpt - Bất Đẳng Thức, Giá Trị Lớn Nhất Và Nhỏ Nhất " />
+				</a>
+				
+				<div class="insActionloop">
+					<a href="javascript:void(0)" class="quick_views btn-quickview-1" data-handle="/products/phuong-phap-giai-cac-dang-toan-thpt-nguyen-ham-tich-phan-va-ung-dung" data-toggle="tooltip" data-placement="top" title="Xem nhanh"><img src="//theme.hstatic.net/1000237375/1000304269/14/zoom_black.png?v=3379" alt="Xem nhanh" title="Xem nhanh" /></a>
+					<a href="/collections/tat-ca-san-pham/products/phuong-phap-giai-cac-dang-toan-thpt-nguyen-ham-tich-phan-va-ung-dung"  class="view_product" data-toggle="tooltip" data-placement="top" title="Xem chi tiết"><img src="//theme.hstatic.net/1000237375/1000304269/14/eye.png?v=3379" alt="Xem chi tiết" title="Xem chi tiết" /></a>
+					
+					<a href="javascript:void(0)" style="border:none" class="add-cart design_cart Addcart" data-variantid="1020914636" data-toggle="tooltip" data-placement="top" title="Thêm vào giỏ"><img src="//theme.hstatic.net/1000237375/1000304269/14/cart.png?v=3379" alt="Thêm vào giỏ" title="Thêm vào giỏ" /></a>
+					
+				</div>
+				
+				
+			</div>
+			<div class="product-detail clearfix">
+				<h3 class="pro-name"><a href="/collections/tat-ca-san-pham/products/phuong-phap-giai-cac-dang-toan-thpt-nguyen-ham-tich-phan-va-ung-dung" title="Sách: Phương Pháp Giải Các Dạng Toán Thpt - Bất Đẳng Thức, Giá Trị Lớn Nhất Và Nhỏ Nhất">Sách: Phương Pháp Giải Các Dạng Toán ... </a></h3>
+				<p class="pro-price">
+					<del class="compare-price">152,000₫</del>
+
+					60,800₫ 
+					
+					<span class=" sale hidden-xs">
+						<span>- 60%</span>
+					</span>
+					
+				</p>
+
+
+				<div class="product_view_list">
+					<ul>
+						<li><strong>Mã sản phẩm: </strong><span>8936067597677</span></li>
+						<li><strong>NXB: </strong><span>Đại Học Quốc Gia Hà Nội</span></li>
+						<li>
+
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+
+							
+							
+
+							
+							
+
+							
+							
+
+							
+							
+
+							
+							<div class="numbe_of_pages">
+								Tác giả :
+							</div>
+							
+
+							
+							
+
+							
+
+							
+
+
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+
+
+
+
+						</li>
+						<li>
+							<strong>Mô tả ngắn: </strong>Bộ sách PHƯƠNG PHÁP GIẢI CÁC DẠNG TOÁN THPT là tài liệu tham khảo chuyên sâu nhằm cung cấp cho các thầy, cô giáo và các em học sinh các bài giảng để hoàn thiện và nâng cao kiến thức. Từ đó hướng tới những...
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</li>
+
+        
+											
+
+										</div>
+
+
+
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+			<div class="show1">
+				<div class="title_chir">
+					<h2>
+						Sản phẩm đã xem
+					</h2>
+				</div>
+
+				<div class="product-seen1">
+
+					<div id="owl-spdx1" class="owl-carousel new-slide">
+
+					</div>
+
+					<div id="clone-item1">
+						<div class="item1 hidden">
+
+							
+
+
+
+
+
+
+
+
+
+<div class="chir_loop loop_item insScroll">
+	<div class="chir-img">
+
+		
+		
+		<div class="insLabel sale visible-xs sale-review">
+			<span>- 40%</span>
+		</div>
+		
+		<a class="link-img-pr-review" href="/collections/tat-ca-san-pham/products/phuong-phap-giai-cac-dang-toan-thpt-nguyen-ham-tich-phan-va-ung-dung" title="Sách: Phương Pháp Giải Các Dạng Toán Thpt - Nguyên Hàm, Tích Phân Và Ứng Dụng">
+			<img class="image-product image-product-review" alt="Sách: Phương Pháp Giải Các Dạng Toán Thpt - Nguyên Hàm, Tích Phân Và Ứng Dụng" src="//product.hstatic.net/1000237375/product/uong-phap-giai-cac-dang-toan-thpt-nguyen-ham-tich-phan-va-ung-dung-440_large.jpg" alt=" Sách: Phương Pháp Giải Các Dạng Toán Thpt - Nguyên Hàm, Tích Phân Và Ứng Dụng " />
+		</a>
+		
+		<div class="insActionloop">
+			<a href="javascript:void(0)" class="quick_views quick_views-review btn-quickview-1" data-handle="/products/phuong-phap-giai-cac-dang-toan-thpt-nguyen-ham-tich-phan-va-ung-dung" data-toggle="tooltip" data-placement="top" title="Xem nhanh"><img src="//theme.hstatic.net/1000237375/1000304269/14/zoom_black.png?v=3379" alt="Xem nhanh" title="Xem nhanh" /></a>
+			<a href="/collections/tat-ca-san-pham/products/phuong-phap-giai-cac-dang-toan-thpt-nguyen-ham-tich-phan-va-ung-dung"  class="view_product view_product_review" data-toggle="tooltip" data-placement="top" title="Xem chi tiết"><img src="//theme.hstatic.net/1000237375/1000304269/14/eye.png?v=3379" alt="Xem chi tiết" title="Xem chi tiết" /></a>
+			
+			<a href="javascript:void(0)" style="border:none" class="add-cart add-cart-review design_cart Addcart" data-variantid="1020914574" data-toggle="tooltip" data-placement="top" title="Thêm vào giỏ"><img src="//theme.hstatic.net/1000237375/1000304269/14/cart.png?v=3379" alt="Thêm vào giỏ" title="Thêm vào giỏ" /></a>
+			
+		</div>
+		
+	</div>
+	<div class="product-detail clearfix">
+		<h3 class="pro-name pro-name-review"><a href="/collections/tat-ca-san-pham/products/phuong-phap-giai-cac-dang-toan-thpt-nguyen-ham-tich-phan-va-ung-dung" title="Sách: Phương Pháp Giải Các Dạng Toán Thpt - Nguyên Hàm, Tích Phân Và Ứng Dụng">Sách: Phương Pháp Giải Các Dạng Toán Thpt - Nguyên Hàm, Tích Phân Và Ứng Dụng </a></h3>
+		<p class="pro-price pro-price-review">
+			<del class="compare-price compare-price-review">152,000₫</del>
+
+			<span class="price">91,200₫ </span>
+			
+			<span class=" sale sale-review hidden-xs">
+				<span>- 40%</span>
+			</span>
+			
+		</p>
+
+
+		
+	</div>
+</div>
+						</div>
+					</div>
+
+
+
+				</div>
+			</div>
+			<style>
+	#owl-spdx1 .item{
+	padding: 0 10px;
+	}
+	.chir_loop .product-detail a {
+	font-family: 'brandon_textregular';
+	font-size: 14px;
+	display: inline-block;
+	line-height: 17px;
+	overflow: hidden;
+	width: 100%;
+	color: #444444;
+	text-overflow: ellipsis;
+	height: 35px;
+	}
+</style>
+<script>
+
+var product_handle = 'phuong-phap-giai-cac-dang-toan-thpt-nguyen-ham-tich-phan-va-ung-dung';
+var last_view_products_current = localStorage.getItem('last_view_products');
+var max_last_view_products = 20;
+
+if( ! last_view_products_current ) {
+	last_view_products_current = [];
+} else {
+	last_view_products_current = JSON.parse(last_view_products_current);
+}
+
+if( last_view_products_current.indexOf(product_handle) == -1 ) {
+	if( last_view_products_current.length >= max_last_view_products ) {
+		last_view_products_current.shift();
+	}
+
+	last_view_products_current.push( product_handle );
+	localStorage.setItem('last_view_products', JSON.stringify(last_view_products_current));
+}else{
+	var remove_at = last_view_products_current.indexOf(product_handle); 
+	last_view_products_current.splice(remove_at, 1);
+	last_view_products_current.push(product_handle);
+	if( last_view_products_current.length >= max_last_view_products ) {
+		last_view_products_current.shift();
+	}
+}
+
+</script>
+
+
+
+
+<script>
+
+$(document).ready(function() {
+
+	var last_view_products = JSON.parse(localStorage.getItem('last_view_products'));
+
+	if( ! last_view_products ) {
+		$(document).ready(function() {
+			$('.product-viewed').hide();
+		});		
+		last_view_products = [];
+		return;
+	}
+	var	display = 20;
+
+	var display_items = last_view_products.length < display ? last_view_products.length : display;
+	var item_idx = 1;   
+
+	while( item_idx <= display_items ) {
+		var handle = last_view_products[last_view_products.length -  item_idx];
+
+		Haravan.getProduct( handle, function( product ) {
+			var item_product = $('#clone-item1 .item1').clone().removeClass('hidden').appendTo('#owl-spdx1');
+			item_product.find('.pro-name-review a').html(product.title);
+			item_product.find('img.image-product-review').attr('src',Haravan.resizeImage(product.featured_image, 'medium'));
+			item_product.find('a').attr('href', product.url);
+			item_product.find('.pro-price-review span.price').html(Haravan.formatMoney(product.price,"{{amount}}₫" ));
+			item_product.find('.compare-price-review').html(Haravan.formatMoney(product.compare_at_price,"{{amount}}₫" ));
+			item_product.find('.quick_views-review').attr('data-handle', product.url);	
+			item_product.find('.add-cart-review').attr('data-variantid', product.variants[0].id);		
+
+		});
+		item_idx++;  
+	}
+
+	//$('#clone-item').remove();
+
+	//Carousel/////////////////////////////////////////
+
+	setTimeout(function() {
+		var owl_1 = $("#owl-spdx1").owlCarousel({
+			autoplay: true,
+			items : 5,
+			nav: true,
+			responsive: {
+				0: {
+					items: 1,
+					margin: 0
+				},
+				320: {
+					items: 2,
+					margin: 15
+				},
+				600: {
+					items: 3,
+					margin: 15
+				},
+				768: {
+					items: 3,
+					margin: 15
+				},
+				992: {
+					items: 5
+				}
+			}
+		});
+	
+		$('.pro-price-compare-recent1').each(function() {
+			var val = parseInt($(this).html());
+			if(val == 0) {
+				$(this).remove();
+			}
+		});
+	}, 2000);
+
+});
+
+</script>
+
+		</div>
+	</div>
+</div>
+<script>
+var check_variant = true;
+$(".product-thumb img").click(function(){
+	$(".product-thumb").removeClass('active');
+	$(this).parents('li').addClass('active');
+	$(".product-image-feature").attr("src",$(this).attr("data-image"));
+	$("a.pdFancybox").attr('href',$(this).attr("data-image"));
+});
+
+$(".product-thumb").first().addClass('active');
+$(document).ready(function(){
+
+	$('.btn-buyNow').click(function(){
+		var id = $('select#product-select').val();
+		var qty = parseInt($('.quantity-selector .entry.number').text());
+		var params = {
+			type: 'POST',
+			url: '/cart/add.js',
+			data: 'quantity=' + qty + '&id=' + id,
+			dataType: 'json',
+			success: function(line_item) { 
+				window.location = '/checkout';
+			},
+			error: function(XMLHttpRequest, textStatus) {
+				Haravan.onError(XMLHttpRequest, textStatus);
+			}
+		};
+		jQuery.ajax(params);
+	})
+
+	jQuery('.slide_thumb_img').owlCarousel({
+		items: 5,
+		loop: false,
+		autoplay: false,
+		margin: 0,
+		responsiveClass: true,
+		nav : true,
+		navText: ['‹' , '›'],
+		responsive: {
+			0: {
+				items: 3
+			},
+			319: {
+				items: 3
+			},
+			480: {
+				items: 4
+			},
+			768: {
+				items: 4
+			},
+			992: {
+				items: 4
+			},
+			1200: {
+				items: 5
+			}
+		}
+	})
+
+	jQuery('.content-related-product').owlCarousel({
+		items: 5,
+		loop: true,
+		autoplay: false,
+		margin: 0,
+		responsiveClass: true,
+		nav : true,
+		navText: ['‹' , '›'],
+		responsive: {
+			0: {
+				items: 1
+			},
+			320: {
+				items: 2
+			},
+			600: {
+				items: 3
+			},
+			767: {
+				items: 3
+			},
+			992: {
+				items: 5
+			},
+			1200: {
+				items: 5
+			}
+		}
+	})
+	$("a.pdFancybox").fancybox({
+		'transitionIn'	:	'elastic',
+		'transitionOut'	:	'elastic',
+		'speedIn'		:	600, 
+		'speedOut'		:	200
+	});
+})
+$(document).on('click','.quantity-selector .entry', function(){
+	var _qty = parseInt($('.quantity-selector .entry.number').text());
+	console.log(_qty);
+	if($(this).hasClass('number-minus')){
+		if(_qty > 1){
+			$('.quantity-selector .entry.number').html(_qty - 1);
+		}
+	}else{
+		$('.quantity-selector .entry.number').html(_qty + 1);
+	}
+})
+</script>
+<script>
+var selectCallback = function(variant, selector) {
+	if (variant && variant.available) {
+		if(variant.featured_image != null)
+		{
+			$(".slide_thumb_img li.product-thumb img[data-image='"+Haravan.resizeImage(variant.featured_image.src,'master')+"']").click().parents('li').addClass('active');
+		}
+		if (variant.sku != null ){
+			jQuery('.sku').html('<strong>Mã sản phẩm: </strong>'+variant.sku);
+		}else{
+			jQuery('.sku').html('<strong>Mã sản phẩm: </strong>Chưa rõ');
+		}
+		jQuery('.btn-addCart').removeClass('hidden');
+		jQuery('.btn-Soldout').addClass('hidden');
+		jQuery('.soldout').remove();
+		if(variant.price < variant.compare_at_price){
+			//jQuery('#price-preview').html("<span>" + Haravan.formatMoney(variant.price, "{{amount}}₫") + "</span><del>" + Haravan.formatMoney(variant.compare_at_price, "{{amount}}₫") + "</del>");
+			jQuery('.price.detail-info-entry .current').html(Haravan.formatMoney(variant.price, "{{amount}}₫"));
+			jQuery('.price.detail-info-entry .prev').remove();
+			jQuery('.price.detail-info-entry .current').after('<div class="prev">'+Haravan.formatMoney(variant.compare_at_price, "{{amount}}₫")+'</div>')
+			var pro_sold = variant.price ;
+			var pro_comp = variant.compare_at_price / 100;
+			var sale = 100 - (pro_sold / pro_comp) ;
+			var kq_sale = Math.round(sale);
+			jQuery('.sale').html('Giảm: '+kq_sale+"%");
+		} else {
+			jQuery('.price.detail-info-entry .current').html(Haravan.formatMoney(variant.price, "{{amount}}₫"));
+			jQuery('.price.detail-info-entry .prev').remove();
+			jQuery('.sale').remove();
+		}
+		check_variant = true;
+	} else {
+		jQuery('.btn-Soldout').removeClass('hidden');
+		jQuery('.btn-addCart').addClass('hidden');
+		jQuery('.product-preview-box').append('<div class="soldout insLabel"><span>Hết hàng</span></div>');
+		check_variant = false;
+	}
+	return check_variant;
+};
+
+jQuery(document).ready(function($){
+	
+	
+
+			});
+			</script>
+
+<script>
+var swatch_size = parseInt($('.select-swatch').children().size());
+jQuery(document).on('click','.swatch input', function(e) {  
+	e.preventDefault()
+	var $this = $(this);
+	var _available = '';
+	$this.parent().siblings().find('label').removeClass('sd');
+	$this.next().addClass('sd');
+	var name = $this.attr('name');
+	var value = $this.val();
+	$('select[data-option='+name+']').val(value).trigger('change');
+	if(swatch_size == 2){
+		if(name.indexOf('1') != -1){
+			$('#variant-swatch-1 .swatch-element').find('input').prop('disabled', false);
+			$('#variant-swatch-2 .swatch-element').find('input').prop('disabled', false);
+			$('#variant-swatch-1 .swatch-element label').removeClass('sd');
+			$('#variant-swatch-1 .swatch-element').removeClass('soldout');
+			$('.selector-wrapper .single-option-selector').eq(1).find('option').each(function(){
+				var _tam = $(this).val();
+				$(this).parent().val(_tam).trigger('change');
+				if(check_variant){
+					if(_available == '' ){
+						_available = _tam;
+					}
+				}else{
+					$('#variant-swatch-1 .swatch-element[data-value="'+_tam+'"]').addClass('soldout');
+					$('#variant-swatch-1 .swatch-element[data-value="'+_tam+'"]').find('input').prop('disabled', true);
+				}
+			})
+			$('.selector-wrapper .single-option-selector').eq(1).val(_available).trigger('change');
+			$('#variant-swatch-1 .swatch-element[data-value="'+_available+'"] label').addClass('sd');
+		}
+	}else if (swatch_size == 3){
+		var _count_op2 = $('#variant-swatch-1 .swatch-element').size();
+		var _count_op3 = $('#variant-swatch-2 .swatch-element').size();
+		if(name.indexOf('1') != -1){
+			$('#variant-swatch-1 .swatch-element').find('input').prop('disabled', false);
+			$('#variant-swatch-2 .swatch-element').find('input').prop('disabled', false);
+			$('#variant-swatch-1 .swatch-element label').removeClass('sd');
+			$('#variant-swatch-1 .swatch-element').removeClass('soldout');
+			$('#variant-swatch-2 .swatch-element label').removeClass('sd');
+			$('#variant-swatch-2 .swatch-element').removeClass('soldout');
+			var _avi_op1 = '';
+			var _avi_op2 = '';
+			$('#variant-swatch-1 .swatch-element').each(function(ind,value){
+				var _key = $(this).data('value');
+				var _unavi = 0;
+				$('.single-option-selector').eq(1).val(_key).change();
+				$('#variant-swatch-2 .swatch-element label').removeClass('sd');
+				$('#variant-swatch-2 .swatch-element').removeClass('soldout');
+				$('#variant-swatch-2 .swatch-element').find('input').prop('disabled', false);
+				$('#variant-swatch-2 .swatch-element').each(function(i,v){
+					var _val = $(this).data('value');
+					$('.single-option-selector').eq(2).val(_val).change();
+					if(check_variant == true){
+						if(_avi_op1 == ''){
+							_avi_op1 = _key;
+						}
+						if(_avi_op2 == ''){
+							_avi_op2 = _val;
+						}
+						//console.log(_avi_op1 + ' -- ' + _avi_op2)
+					}else{
+						_unavi += 1;
+					}
+				})
+				if(_unavi == _count_op3){
+					$('#variant-swatch-1 .swatch-element[data-value = "'+_key+'"]').addClass('soldout');
+					setTimeout(function(){
+						$('#variant-swatch-1 .swatch-element[data-value = "'+_key+'"] input').attr('disabled','disabled');
+					})
+				}
+			})
+			$('#variant-swatch-1 .swatch-element[data-value="'+_avi_op1+'"] input').click();
+		}
+		else if(name.indexOf('2') != -1){
+			$('#variant-swatch-2 .swatch-element label').removeClass('sd');
+			$('#variant-swatch-2 .swatch-element').removeClass('soldout');
+			$('.selector-wrapper .single-option-selector').eq(2).find('option').each(function(){
+				var _tam = $(this).val();
+				$(this).parent().val(_tam).trigger('change');
+				if(check_variant){
+					if(_available == '' ){
+						_available = _tam;
+					}
+				}else{
+					$('#variant-swatch-2 .swatch-element[data-value="'+_tam+'"]').addClass('soldout');
+					$('#variant-swatch-2 .swatch-element[data-value="'+_tam+'"]').find('input').prop('disabled', true);
+				}
+			})
+			$('.selector-wrapper .single-option-selector').eq(2).val(_available).trigger('change');
+			$('#variant-swatch-2 .swatch-element[data-value="'+_available+'"] label').addClass('sd');
+		}
+	}else{
+
+	}
+})
+$(document).ready(function(){
+	var _chage = '';
+	$('.swatch-element[data-value="'+$('.selector-wrapper .single-option-selector').eq(0).val()+'"]').find('input').click();
+	$('.swatch-element[data-value="'+$('.selector-wrapper .single-option-selector').eq(1).val()+'"]').find('input').click();
+	if(swatch_size == 2){
+		var _avi_op1 = '';
+		var _avi_op2 = '';
+		var _count = $('#variant-swatch-1 .swatch-element').size();
+		$('#variant-swatch-0 .swatch-element').each(function(ind,value){
+			var _key = $(this).data('value');
+			var _unavi = 0;
+			$('.single-option-selector').eq(0).val(_key).change();
+			$('#variant-swatch-1 .swatch-element').each(function(i,v){
+				var _val = $(this).data('value');
+				$('.single-option-selector').eq(1).val(_val).change();
+				if(check_variant == true){
+					if(_avi_op1 == ''){
+						_avi_op1 = _key;
+					}
+					if(_avi_op2 == ''){
+						_avi_op2 = _val;
+					}
+				}else{
+					_unavi += 1;
+				}
+			})
+			if(_unavi == _count){
+				$('#variant-swatch-0 .swatch-element[data-value = "'+_key+'"]').addClass('soldout');
+				$('#variant-swatch-0 .swatch-element[data-value = "'+_key+'"]').find('input').attr('disabled','disabled');
+			}
+		})
+		$('#variant-swatch-1 .swatch-element[data-value = "'+_avi_op2+'"] input').click();
+		$('#variant-swatch-0 .swatch-element[data-value = "'+_avi_op1+'"] input').click();
+	}else if(swatch_size == 3){
+		var _avi_op1 = '';
+		var _avi_op2 = '';
+		var _avi_op3 = '';
+		var _size_op2 = $('#variant-swatch-1 .swatch-element').size();
+		var _size_op3 = $('#variant-swatch-2 .swatch-element').size();
+
+		$('#variant-swatch-0 .swatch-element').each(function(ind,value){
+			var _key_va1 = $(this).data('value');
+			var _count_unavi = 0;
+			$('.single-option-selector').eq(0).val(_key_va1).change();
+			$('#variant-swatch-1 .swatch-element').each(function(i,v){
+				var _key_va2 = $(this).data('value');
+				var _unavi_2 = 0;
+				$('.single-option-selector').eq(1).val(_key_va2).change();
+				$('#variant-swatch-2 .swatch-element').each(function(j,z){
+					var _key_va3 = $(this).data('value');
+					$('.single-option-selector').eq(2).val(_key_va3).change();
+					if(check_variant == true){
+						if(_avi_op1 == ''){
+							_avi_op1 = _key_va1;
+						}
+						if(_avi_op2 == ''){
+							_avi_op2 = _key_va2;
+						}
+						if(_avi_op3 == ''){
+							_avi_op3 = _key_va3;
+						}
+					}else{
+						_unavi_2 += 1;
+					}
+				})
+				if(_unavi_2 == _size_op3){
+					_count_unavi += 1;
+				}
+			})
+			if(_size_op2 == _count_unavi){
+				$('#variant-swatch-0 .swatch-element[data-value = "'+_key_va1+'"]').addClass('soldout');
+				$('#variant-swatch-0 .swatch-element[data-value = "'+_key_va1+'"]').find('input').attr('disabled','disabled');
+			}
+		})
+		$('#variant-swatch-0 .swatch-element[data-value = "'+_avi_op1+'"] input').click();
+	}
+})
+</script>
+				</div>
+
+			</div>
+			<footer id="footer_chir">
+
+	
+	<section id="footer_promotion" class="">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-3 col-sm-3 col-xs-6 item_policy">
+					<div class="info_policy clearfix">
+						<span class="name-icon pull-left fa fa-truck"></span>
+						<div class="description pull-left">
+							<h4>MIỄN PHÍ VẬN CHUYỂN</h4>
+							<p>cho đơn hàng trên 300,000 VNĐ</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-3 col-sm-3 col-xs-6 item_policy">
+					<div class="info_policy clearfix">
+						<span class="name-icon pull-left fa fa-money"></span>
+						<div class="description pull-left">
+							<h4>SHIP COD TOÀN QUỐC</h4>
+							<p>Thanh toán khi nhận sách</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-3 col-sm-3 col-xs-6 item_policy">
+					<div class="info_policy clearfix">
+						<span class="name-icon pull-left fa fa-smile-o"></span>
+						<div class="description pull-left">
+							<h4>MIỄN PHÍ ĐỔI TRẢ HÀNG</h4>
+							<p> trong vòng 10 ngày</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-3 col-sm-3 col-xs-6 item_policy">
+					<div class="info_policy clearfix">
+						<span class="name-icon pull-left fa fa-phone"></span>
+						<div class="description pull-left">
+							<h4>Hotline:</h4>
+							<p>0989 849 396</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	
+	<section id="footer_main">
+		<div class="container">
+			<div class="row">
+				
+				<div class="col-md-12 col-sm-12 col-xs-12 footer-right">
+					<div class="fi-about-block grid__item footer-new newfooter">
+						
+						<a href="https://shop.minhlongbook.vn"><img alt="MINH LONG BOOK" src="//theme.hstatic.net/1000237375/1000304269/14/logo_ft.png?v=3379" itemprop="logo"></a>
+						
+						<div class="fi-content" >
+							<p style="text-align: justify;">
+
+<i class="fa fa-map-marker" aria-hidden="true"></i>  LK 02 - 03, Dãy B, KĐT Green Pearl, 378 Minh Khai, Hai Bà Trưng, Hà Nội.								<br>							<i class="fa fa-phone" aria-hidden="true"></i> 0989 849 396
+								<br>
+								<i class="fa fa-envelope" aria-hidden="true"></i> contact@minhlongbook.com.vn
+
+</p>
+
+						</div>
+					</div>
+					<div class="col-md-2 col-sm-6 col-xs-12 newfooter" >
+						<div class="fi-title">Về chúng tôi</div>
+						<div class="fi-content">
+							<ul class="grid__item one-whole">
+								
+								
+								
+
+								
+								<li>
+									<a href="https://minhlongbook.vn/"><span>Giới thiệu</span></a>
+								</li>
+								
+								
+								
+								
+
+								
+								<li>
+									<a href="/blogs/tin-tuc-su-kien"><span>Tin tức</span></a>
+								</li>
+								
+								
+								
+								
+
+								
+								<li>
+									<a href="https://minhlongbook.vn/blogs/tuyen-dung"><span>Tuyển dụng</span></a>
+								</li>
+								
+								
+								
+								
+
+								
+								<li>
+									<a href="/pages/lien-he"><span>Liên hệ</span></a>
+								</li>
+								
+								
+								
+								
+
+								
+								
+								
+								
+
+								
+								
+								
+								
+
+								
+								
+								
+								
+
+								
+								
+								
+								
+
+								
+								
+								
+								
+
+								
+								
+								
+								
+
+								
+								
+
+
+							</ul>
+						</div>
+					</div>
+					<div class="col-md-3 col-sm-6 col-xs-12 newfooter">
+						<div class="fi-title">Hỗ trợ khách hàng</div>
+						<div class="fi-content">
+							<ul class="grid__item one-whole">
+								
+								
+								
+
+								
+								<li>
+									<a href="/pages/dieu-khoan-su-dung"><span>Điều khoản sử dụng</span></a>
+								</li>
+								
+								
+								
+								
+
+								
+								<li>
+									<a href="/pages/huong-dan-mua-hang"><span>Hướng dẫn mua hàng</span></a>
+								</li>
+								
+								
+								
+								
+
+								
+								<li>
+									<a href="/pages/phuong-thuc-thanh-toan"><span>Phương thức thanh toán</span></a>
+								</li>
+								
+								
+								
+								
+
+								
+								<li>
+									<a href="/pages/phuong-thuc-van-chuyen-1"><span>Phương thức giao hàng</span></a>
+								</li>
+								
+								
+								
+								
+
+								
+								<li>
+									<a href="https://shop.minhlongbook.vn/pages/chinh-sach-tra-hang"><span>Chính sách đổi trả</span></a>
+								</li>
+								
+								
+								
+								
+
+								
+								<li>
+									<a href="https://shop.minhlongbook.vn/pages/chinh-sach-bao-mat-thong-tin"><span>Bảo mật thông tin</span></a>
+								</li>
+								
+								
+								
+								
+
+								
+								
+								
+								
+
+								
+								
+								
+								
+
+								
+								
+								
+								
+
+								
+								
+								
+								
+
+								
+								
+
+							</ul>
+						</div>
+					</div>
+					<div class="col-md-3 col-sm-6 col-xs-12 newfooter">
+						<div class="fi-title">Thông tin</div>
+						<div class="fi-content">
+							<ul class="grid__item one-whole">
+								
+								
+								
+
+								
+								<li>
+									<a href="/account/login"><span>Đăng nhập</span></a>
+								</li>
+								
+								
+								
+								
+
+								
+								<li>
+									<a href="/account/register"><span>Đăng ký</span></a>
+								</li>
+								
+								
+								
+								
+
+								
+								<li>
+									<a href="/pages/tra-cuu-don-hang"><span>Tra cứu đơn hàng</span></a>
+								</li>
+								
+								
+								
+								
+
+								
+								
+								
+								
+
+								
+								
+								
+								
+
+								
+								
+								
+								
+
+								
+								
+								
+								
+
+								
+								
+								
+								
+
+								
+								
+								
+								
+
+								
+								
+								
+								
+
+								
+								
+
+							</ul>
+						</div>
+					</div>
+
+					<div class="col-md-4 col-sm-6 col-xs-12 footer-new newfooter">
+						<div class="fi-title">Kết nối với Minh Long trên Facebook</div>
+						<div class="fi-content">
+							
+							<div class="fb-page" data-href="https://www.facebook.com/minhlongbook.com.vn/" data-height="300" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="false">	</div>
+
+						</div>
+					</div>
+	
+				</div>
+			</div>
+		</div>
+	</section>
+	
+	<section id="chir_top_bar" class="">
+		<div class="main">
+			<div class="container">
+				
+				<img src="//theme.hstatic.net/1000237375/1000304269/14/bo_cong_thuong.png?v=3379" style="height: 60px; float: left;">
+				<p style="    line-height: 60px;margin: 0 10px;display: inline-block;">© Bản quyền thuộc về Công ty TNHH MTV TM và DV Văn Hoá Minh Long </p>
+			</div>
+		</div>
+	</section>
+	
+	
+
+	
+</footer>
+			<div class="sibOvelay"></div>
+		</div>
+		<div class="fixedItem backtop">
+			<a href="javascript:void(0)"><img src="//theme.hstatic.net/1000237375/1000304269/14/top.png?v=3379" alt="MINH LONG BOOK" /></a>
+		</div>
+
+		<div class="fixedItem cart">
+			<a href="/cart"><img src="//theme.hstatic.net/1000237375/1000304269/14/icon_cart_mb.png?v=3379" alt="MINH LONG BOOK" /></a>
+		</div>
+		<div class="ajax-cart-popup engo-popup">
+	<div class="overlay"></div>
+	<div class="content">
+		<div id="AjaxifyCart" class="ajaxcart">
+			<button type="button" class="ajaxcart__close" title="Đóng"></button>
+			<form action="/cart" method="post" novalidate="" class="cart">
+				<h2 class="page-header">Giỏ Hàng</h2>
+				
+				<div class="page-content not-item text-center">
+					<div class="img text-center">
+						<img src="//theme.hstatic.net/1000237375/1000304269/14/empty_cart.png?v=3379" alt="Không có sản phẩm nào trong giỏ hàng của bạn" />
+					</div>
+					<p>
+						Không có sản phẩm nào trong giỏ hàng của bạn
+					</p>
+					<div class="ctnBuy">
+						<a href="javascript:void(0)" class="btn btn-outline closeCartLine">Tiếp tục mua hàng </a>
+					</div>
+				</div>
+				
+			</form>
+		</div>
+	</div>
+</div>
+		<div class="modal fade" id="quick-view-modal" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="false">
+	<div class="modal-dialog modal-lg">
+		<div class="modal-content">
+			<div class="modal-header">
+				<h4 class="modal-title " id="">Thông tin sản phẩm</h4>
+				<button type="button" class="close" data-dismiss="modal" aria-label="Close"><a aria-hidden="true"></a></button>
+			</div>
+			<div class="modal-body">
+				<div class="container-fluid">
+					<div class="row">
+						<form method="post" action="/cart/add">
+							<div class="col-lg-5 col-md-6">
+								<div class="image-zoom row">
+
+									<img class="p-product-image-feature" src="">
+									<div id="p-sliderproduct" class="owl_pages ">
+										<ul class="slides"></ul>  
+									</div>
+
+								</div>
+							</div>
+							<div class="col-lg-7 col-md-6 pull-right" style="padding: 0px 10px;">
+
+								<div class="form-input">
+									<div class="product-title p-title">
+									</div>
+									<div class="product-price">
+										<span class="p-price "></span>
+										<del></del>
+									</div>
+
+								</div>
+								<div class="form-des"></div>
+								<div class="clearfix"></div>
+								<div class="form-input vid ">
+									<div class="m-vendor">
+									</div>
+									<div class="m-sku">
+									</div>
+									<div class="m-tt">
+									</div>
+								</div>
+								<div class="p-option-wrapper">
+									<select name="id" class="" id="p-select"></select>
+								</div>
+
+								<div class="form-input ">
+									<label>Số lượng</label>
+									<input name="quantity" id="quantity" type="number" min="1" value="1" />
+								</div>
+
+								<div class="form-input" style="width: 100%">
+									<button type="button" class="btn-addcart">Thêm vào giỏ</button>
+									<button disabled class="btn-detail addtocart btn-color-add btn-min-width btn-mgt btn-soldout">Hết hàng</button>
+									<div class="qv-readmore">
+										<span> hoặc </span><a class="read-more p-url" href="" role="button">Xem chi tiết</a>
+									</div>
+								</div>
+							</div>
+						</form>
+					</div>
+				</div>
+			</div>
+		</div><!-- /.modal-content -->
+	</div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+<script>
+$("document").ready(function() {
+	$(function() {
+		$("#quantity").keypress(function(event) {
+			if (event.which != 8 && event.which != 0 && (event.which < 48 || event.which > 57)) {
+				return false;
+			}
+		});
+	});
+});
+</script>
+<style>
+	input[type=number] {
+	-moz-appearance:textfield;
+	}
+	input[type=number]::-webkit-inner-spin-button,
+	input[type=number]::-webkit-outer-spin-button {
+	-webkit-appearance: none;
+	margin: 0;
+	}
+</style>
+<script>
+var callBack = function (variant, selector) {
+	if (variant) {
+		modal = $('#quick-view-modal');
+		$('.p-price').html(Haravan.formatMoney(variant.price, "{{amount}}₫"));
+		if (variant.compare_at_price > 0)
+			modal.find('del').html(Haravan.formatMoney(variant.compare_at_price, "{{amount}}₫"));
+		else
+			modal.find('del').html('');
+		if (variant.available) {
+			modal.find('.btn-addcart').css('display', 'block');
+			modal.find('.btn-soldout').css('display', 'none');
+		}
+		else {
+			modal.find('.btn-addcart').css('display', 'none');
+			modal.find('.btn-soldout').css('display', 'block');
+		}
+		if (variant.sku != null ){
+			modal.find('.m-sku').html('<span>Mã sản phẩm: </span>'+ variant.sku);
+		}else{
+			modal.find('.m-sku').html('<span>Mã sản phẩm: </span>Chưa rõ');
+		}
+	}
+	else {
+		modal.find('.btn-addcart').css('display', 'none');
+		modal.find('.btn-soldout').css('display', 'block');
+	}
+}
+var p_select_data = $('.p-option-wrapper').html();
+var p_zoom = $('.image-zoom').html();
+var quickViewProduct = function (purl) {
+
+	if ($(window).width() < 680) { window.location = purl; return false; }
+	modal = $('#quick-view-modal'); modal.modal('show');
+	$.ajax({
+		url: purl + '.js',
+		async: false,
+		success: function (product) {
+			$.each(product.options, function (i, v) {
+				product.options[i] = v.name;
+			})
+			modal.find('.p-title').html('<h1>' + product.title + '</h1>');
+			modal.find('.p-option-wrapper').html(p_select_data);
+			modal.find('.m-vendor').html('<span>Nhà cung cấp: </span>'+ product.vendor);
+			var productdes = product.description;
+			if(productdes != '' && productdes != null){
+				var re_productdes = productdes.replace(/(<([^>]+)>)/ig,"")
+				var des = re_productdes.split("&nbsp;").splice(0, 50).join(" ") + "...";
+				modal.find('.form-des').html(des);
+				modal.find('.form-des').show();
+			}else{
+				modal.find('.form-des').html('Chưa có mô tả cho sản phẩm này!');
+			}
+			$('.image-zoom').html(p_zoom);
+			modal.find('.p-url').attr('href', product.url);
+			if (product.images.length == 0) {
+				modal.find('.p-product-image-feature').attr('src', '//hstatic.net/0/0/global/noDefaultImage6_large.gif');
+			}
+			else {
+				$('#p-sliderproduct').remove();
+				$('.image-zoom').append("<div id='p-sliderproduct' class='owl_pages '>");
+				$('#p-sliderproduct').append("<ul class='slides owl_design'>");
+
+				$.each(product.images, function (i, v) {
+					elem = $('<li class="product-thumb">').append('<a href="#" data-image="" data-zoom-image=""><img /></a>');
+					elem.find('a').attr('data-image', Haravan.resizeImage(v, 'medium'));
+					elem.find('a').attr('data-zoom-image', v);
+					elem.find('img').attr('data-image', Haravan.resizeImage(v, 'medium'));
+					elem.find('img').attr('data-zoom-image',v);
+					elem.find('img').attr('src', Haravan.resizeImage(v, 'small'));
+					modal.find('.slides').append(elem);
+				})
+
+				modal.find('.p-product-image-feature').attr('src', product.featured_image);
+				$(".modal-footer .btn-readmore").attr('href', purl);
+				setTimeout(function(){
+					$('#p-sliderproduct .slides').owlCarousel({
+						items: 4,
+						loop: false,
+						autoplay: false,
+						margin: 5,
+						responsiveClass: true,
+						nav : true,
+						navText: ['‹' , '›'],
+						responsive: {
+							0: {
+								items: 1,
+								margin: 0
+							},
+							414: {
+								items: 2,
+								margin: 15
+							},
+							480: {
+								items: 2,
+								margin: 15
+							},
+							768: {
+								items: 2,
+								margin: 15
+							},
+							992: {
+								items: 4
+							}
+						}
+					});
+					modal.find('.owl-item:first-child .product-thumb').addClass('active');
+				},300)
+			}
+			$.each(product.variants, function (i, v) {
+				modal.find('select#p-select').append("<option value='" + v.id + "'>" + v.title + ' - ' + v.price + "</option>");
+			})
+			if (product.variants.length == 1 && product.variants[0].title.indexOf('Default') != -1)
+				$('.p-option-wrapper').hide();
+			else
+				$('.p-option-wrapper').show();
+			if (product.variants.length == 1 && product.variants[0].title.indexOf('Default') != -1) {
+				callBack(product.variants[0], null);
+			}
+			else {
+				new Haravan.OptionSelectors("p-select", { product: product, onVariantSelected: callBack });
+				debugger
+				if (product.options.length == 1 && product.options[0].indexOf('Tiêu đề')==-1)
+
+					modal.find('.selector-wrapper:eq(0)').prepend('<label>' + product.options[0] + '</label>');
+
+				$('.p-option-wrapper select:not(#p-select)').each(function () {
+					$(this).wrap('<span class="custom-dropdown custom-dropdown--white"></span>');
+					$(this).addClass("custom-dropdown__select custom-dropdown__select--white");
+				});
+				callBack(product.variants[0], null);
+			}
+
+		}
+	});
+
+	//$('.modal-backdrop').css('opacity', '0');
+	return false;
+}
+$('#quick-view-modal ').on('click', '.product-thumb img', function (event) {
+	event.preventDefault();
+	modal = $('#quick-view-modal');
+	modal.find('.p-product-image-feature').attr('src', $(this).attr('data-zoom-image'));
+	modal.find('.product-thumb').removeClass('active');
+	$(this).parents('li').addClass('active');
+	return false;
+})
+$(document).on('click','.btn-quickview-1', function(event){
+	event.preventDefault();
+	quickViewProduct($(this).attr('data-handle'));
+})
+</script>
+		<section id="mobile_menu" class="visible-sm visible-xs">
+	<nav>
+		<div class="head">
+			<p>
+				Danh mục sách
+			</p>
+			<div class="tool_bar_menu">
+				<a href="javascript:void(0)">
+					<span class="open-menu"></span>
+				</a>
+			</div>
+		</div>
+		<ul class="chir_menu_mobile">
+			
+			
+			<li>
+				<a href="/" class="" title="TRANG CHỦ">
+					<span>TRANG CHỦ</span>
+				</a>
+			</li>
+			
+			
+			
+			<li class="mobile_child">
+				<a href="/collections/sach-mam-non" title="SÁCH MẦM NON" class="">
+					SÁCH MẦM NON <i class="fa fa-angle-down" aria-hidden="true"></i>
+				</a>
+				<ul class="mobile_lvlup lv2" role="menu">
+					
+					
+					<li>
+						<a href="/collections/be-vao-lop-mot" title="▶ Bé Vào Lớp 1">▶ Bé Vào Lớp 1</a>
+					</li>
+					
+					
+					
+					<li>
+						<a href="/collections/tu-dien-tranh" title="▶ Từ Điển Tranh">▶ Từ Điển Tranh</a>
+					</li>
+					
+					
+					
+					<li>
+						<a href="/collections/thu-cong-tap-to-tap-ve" title="▶ Thủ Công - Tập Tô">▶ Thủ Công - Tập Tô</a>
+					</li>
+					
+					
+					
+					<li>
+						<a href="/collections/phat-trien-tri-tue" title="▶ Phát Triển Trí Tuệ">▶ Phát Triển Trí Tuệ</a>
+					</li>
+					
+					
+					
+					<li>
+						<a href="/collections/combo-sach-mam-non" title="▶ Combo Sách Mầm Non">▶ Combo Sách Mầm Non</a>
+					</li>
+					
+					
+				</ul>
+			</li>
+			
+			
+			
+			<li class="mobile_child">
+				<a href="/collections/sach-thieu-nhi" title="SÁCH THIẾU NHI" class="">
+					SÁCH THIẾU NHI <i class="fa fa-angle-down" aria-hidden="true"></i>
+				</a>
+				<ul class="mobile_lvlup lv2" role="menu">
+					
+					
+					<li>
+						<a href="/collections/truyen-tranh-mau-mn" title="▶ Truyện Tranh Mầu">▶ Truyện Tranh Mầu</a>
+					</li>
+					
+					
+					
+					<li>
+						<a href="/collections/sach-ky-nang-song" title="▶ Sách Kĩ Năng Sống">▶ Sách Kĩ Năng Sống</a>
+					</li>
+					
+					
+					
+					<li>
+						<a href="/collections/sach-truyen-chu-mn" title="▶ Sách Truyện Chữ">▶ Sách Truyện Chữ</a>
+					</li>
+					
+					
+					
+					<li>
+						<a href="/collections/kien-thuc-khoa-hoc" title="▶ Kiến Thức - Khoa Học">▶ Kiến Thức - Khoa Học</a>
+					</li>
+					
+					
+					
+					<li>
+						<a href="/collections/tap-to-mau-kheo-tay" title="▶ Tập Tô Mầu - Khéo Tay">▶ Tập Tô Mầu - Khéo Tay</a>
+					</li>
+					
+					
+					
+					<li>
+						<a href="/collections/combo-sach-thieu-nhi" title="▶ Combo Sách Thiếu Nhi">▶ Combo Sách Thiếu Nhi</a>
+					</li>
+					
+					
+				</ul>
+			</li>
+			
+			
+			
+			<li class="mobile_child">
+				<a href="/collections/sach-ky-nang-all" title="SÁCH KĨ NĂNG" class="">
+					SÁCH KĨ NĂNG <i class="fa fa-angle-down" aria-hidden="true"></i>
+				</a>
+				<ul class="mobile_lvlup lv2" role="menu">
+					
+					
+					<li>
+						<a href="/collections/ky-nang" title="▶ KN - Sách Lẻ">▶ KN - Sách Lẻ</a>
+					</li>
+					
+					
+					
+					<li>
+						<a href="/collections/combo-sach-kinh-doanh-ky-nang" title="▶ KN - Combo">▶ KN - Combo</a>
+					</li>
+					
+					
+				</ul>
+			</li>
+			
+			
+			
+			<li class="mobile_child">
+				<a href="/collections/chuyen-muc-sach-kinh-doanh" title="SÁCH KINH DOANH" class="">
+					SÁCH KINH DOANH <i class="fa fa-angle-down" aria-hidden="true"></i>
+				</a>
+				<ul class="mobile_lvlup lv2" role="menu">
+					
+					
+					<li>
+						<a href="/collections/kinh-doanh" title="▶ KD - Sách Lẻ">▶ KD - Sách Lẻ</a>
+					</li>
+					
+					
+					
+					<li>
+						<a href="/collections/combo-kinh-doanh" title="▶ KD - Combo">▶ KD - Combo</a>
+					</li>
+					
+					
+				</ul>
+			</li>
+			
+			
+			
+			<li class="mobile_child">
+				<a href="/collections/sach-me-va-be" title="SÁCH MẸ VÀ BÉ" class="">
+					SÁCH MẸ VÀ BÉ <i class="fa fa-angle-down" aria-hidden="true"></i>
+				</a>
+				<ul class="mobile_lvlup lv2" role="menu">
+					
+					
+					<li>
+						<a href="/collections/sach-me-va-be-31" title="▶ Sách Dành Cho Mẹ Bầu">▶ Sách Dành Cho Mẹ Bầu</a>
+					</li>
+					
+					
+					
+					<li>
+						<a href="/collections/cham-soc-va-giao-duc-con" title="▶ Chăm Sóc Và Giáo Dục Con">▶ Chăm Sóc Và Giáo Dục Con</a>
+					</li>
+					
+					
+					
+					<li>
+						<a href="/collections/combo-sach-me-va-be" title="▶ Combo Sách Mẹ Và Bé">▶ Combo Sách Mẹ Và Bé</a>
+					</li>
+					
+					
+				</ul>
+			</li>
+			
+			
+			
+			<li class="mobile_child">
+				<a href="/collections/sach-van-hoc" title="SÁCH VĂN HỌC" class="">
+					SÁCH VĂN HỌC <i class="fa fa-angle-down" aria-hidden="true"></i>
+				</a>
+				<ul class="mobile_lvlup lv2" role="menu">
+					
+					
+					<li>
+						<a href="/collections/van-hoc-nuoc-ngoai" title="▶ Văn Học Nước Ngoài">▶ Văn Học Nước Ngoài</a>
+					</li>
+					
+					
+					
+					<li>
+						<a href="/collections/van-hoc-viet-nam" title="▶ Văn Học Việt Nam">▶ Văn Học Việt Nam</a>
+					</li>
+					
+					
+				</ul>
+			</li>
+			
+			
+			
+			<li class="mobile_child">
+				<a href="/collections/sach-tham-khao" title="SÁCH THAM KHẢO" class="">
+					SÁCH THAM KHẢO <i class="fa fa-angle-down" aria-hidden="true"></i>
+				</a>
+				<ul class="mobile_lvlup lv2" role="menu">
+					
+					
+					<li>
+						<a href="/collections/sach-tieu-hoc" title="▶ Sách Tiểu Học">▶ Sách Tiểu Học</a>
+					</li>
+					
+					
+					
+					<li>
+						<a href="/collections/sach-trung-hoc-co-so" title="▶ Sách Trung Học Cơ Sở">▶ Sách Trung Học Cơ Sở</a>
+					</li>
+					
+					
+					
+					<li>
+						<a href="/collections/sach-trung-hoc-pho-thong" title="▶ Sách Trung Học Phổ Thông">▶ Sách Trung Học Phổ Thông</a>
+					</li>
+					
+					
+					
+					<li>
+						<a href="/collections/tu-dien-ngoai-ngu" title="▶ Từ Điển">▶ Từ Điển</a>
+					</li>
+					
+					
+				</ul>
+			</li>
+			
+			
+			
+			<li class="mobile_child">
+				<a href="/collections/notebook" title="NOTEBOOK" class="">
+					NOTEBOOK <i class="fa fa-angle-down" aria-hidden="true"></i>
+				</a>
+				<ul class="mobile_lvlup lv2" role="menu">
+					
+					
+					<li>
+						<a href="/collections/phong-cach-song" title="▶ Phong Cách Sống">▶ Phong Cách Sống</a>
+					</li>
+					
+					
+					
+					<li>
+						<a href="/collections/gia-dinh-than-yeu" title="▶ Gia Đình Thân Yêu">▶ Gia Đình Thân Yêu</a>
+					</li>
+					
+					
+					
+					<li>
+						<a href="/collections/cung-hoang-dao" title="▶ Cung Hoàng Đạo">▶ Cung Hoàng Đạo</a>
+					</li>
+					
+					
+					
+					<li>
+						<a href="/collections/combo-notebook" title="▶ Combo Notebook">▶ Combo Notebook</a>
+					</li>
+					
+					
+				</ul>
+			</li>
+			
+			
+			
+			<li class="mobile_child">
+				<a href="/collections/do-choi-tre-em-duka" title="ĐỒ CHƠI TRẺ EM - VPP" class="">
+					ĐỒ CHƠI TRẺ EM - VPP <i class="fa fa-angle-down" aria-hidden="true"></i>
+				</a>
+				<ul class="mobile_lvlup lv2" role="menu">
+					
+					
+					<li>
+						<a href="/collections/happy-baby" title="Happy BaBy">Happy BaBy</a>
+					</li>
+					
+					
+					
+					<li>
+						<a href="/collections/ghep-hinh-sang-tao" title="Ghép Hình Sáng Tạo">Ghép Hình Sáng Tạo</a>
+					</li>
+					
+					
+					
+					<li>
+						<a href="/collections/do-choi-giao-duc" title="Đồ Chơi Giáo Duc">Đồ Chơi Giáo Duc</a>
+					</li>
+					
+					
+					
+					<li>
+						<a href="/collections/do-choi-huong-nghiep" title="Đồ Chơi Hướng Nghiệp">Đồ Chơi Hướng Nghiệp</a>
+					</li>
+					
+					
+					
+					<li>
+						<a href="/collections/o-to-do-choi" title="Ô Tô Đồ Chơi">Ô Tô Đồ Chơi</a>
+					</li>
+					
+					
+					
+					<li>
+						<a href="/collections/but-sap-mau" title="Bút Sáp Màu">Bút Sáp Màu</a>
+					</li>
+					
+					
+				</ul>
+			</li>
+			
+			
+			
+			<li>
+				<a href="/collections/san-pham-ban-chay" class="" title="TOP BEST SELLER">
+					<span>TOP BEST SELLER</span>
+				</a>
+			</li>
+			
+			
+			
+			<li>
+				<a href="/blogs/tin-tuc-su-kien" class="" title="TIN TỨC/BLOG">
+					<span>TIN TỨC/BLOG</span>
+				</a>
+			</li>
+			
+			
+		</ul>
+	</nav>
+</section>
+<div class="overlay_chir menu visible-sm visible-xs"></div>
+		
+		<div id="compareProduct" class="hidden-sm hidden-xs">
+	<div class="mainCpPd">
+		<div class="cpTitle">
+			<h2>
+				Danh sách so sánh
+			</h2>
+		</div>
+		<div class="toggleButton">
+			<a href="javascript:void(0)"><i class="fa fa-compress" aria-hidden="true"></i></a>
+		</div>
+		<div class="listCpPd">
+
+		</div>
+		<div class="linkToCompare text-center">
+			<a href="/pages/compare">So sánh</a>
+		</div>
+	</div>
+</div>
+		
+		
+		
+		<script src='//theme.hstatic.net/1000237375/1000304269/14/ins_main.js?v=3379' type='text/javascript'></script>
+
+		
+
+
+	</body>
+</html>
